@@ -1,0 +1,9 @@
+14th prime number is 43Logged primes:
+29
+37
+43
+29
+37
+43
+29
+37
