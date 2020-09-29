@@ -24,10 +24,10 @@ def createParser():
 
 
 if __name__ == '__main__':
-    try:
-        n = int(sys.argv[1])
-        print(fib(n))
-    except:
-        parser = createParser()
-        namespace = parser.parse_args()
-        print(fib(namespace.n))
+    # try:
+    #     n = int(sys.argv[1])
+    #     print(fib(n))
+    # except:
+    parser = createParser()
+    namespace = parser.parse_args()
+    print(fib(namespace.n))

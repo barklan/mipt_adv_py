@@ -31,6 +31,13 @@ def get_prime(k):
     return i + 1
 
 
+def get_primes_before(k):
+    return (list(filter(lambda x: all(map(lambda i: x % i != 0,
+                                                    range(2, int(x ** 0.5) + 1))),
+                                                    range(2, int(k) + 1))))
+#  :\
+
+
 def createParser():
     parser = argparse.ArgumentParser()
     parser.add_argument('-a', '--show-all', action='store_true', default=False)
@@ -50,14 +57,10 @@ if __name__ == '__main__':
         print(out1, file=args.file)
 
     if args.show_all:
-        with open('log.txt', 'r') as log:
-            print('Logged primes:')
-            if args.file is not None:
-                print('Logged primes:', file=args.file)
-            for line in log:
-                print(line.strip())
-                if args.file is not None:
-                    print(line.strip(), file=args.file)
+        before = get_primes_before(prime)
+        print(*before)
+        if args.file is not None:
+            print(*before, file=args.file)
 
     with open('log.txt', 'a') as log:
         log.write(str(prime) + '\n')
