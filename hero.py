@@ -2,6 +2,7 @@
 # license: GPLv3
 from gameunit import *
 
+
 class Hero(Attacker):
     def __init__(self,name):
         self._health = 100

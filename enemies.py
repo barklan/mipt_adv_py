@@ -3,6 +3,7 @@
 from gameunit import *
 from random import randint, choice
 
+
 class Enemy(Attacker):
     pass
 
@@ -39,6 +40,7 @@ class GreenDragon(Dragon):
         self.set_answer(x + y)
         return self.__quest
 
+
 class RedDragon(Dragon):
     def __init__(self):
         self._health = 200
@@ -51,7 +53,8 @@ class RedDragon(Dragon):
         self.__quest = str(x) + '-' + str(y)
         self.set_answer(x - y)
         return self.__quest
-        
+
+   
 class BlackDragon(Dragon):
     def __init__(self):
         self._health = 200
@@ -64,6 +67,7 @@ class BlackDragon(Dragon):
         self.__quest = str(x) + 'x' + str(y)
         self.set_answer(x * y)
         return self.__quest
+
 
 class DifferentialDragon(Dragon):
     def __init__(self):
@@ -81,6 +85,7 @@ class DifferentialDragon(Dragon):
         else:
             self.set_answer(x)
         return self.__quest
+
 
 class MythrilDragon(Dragon):
     def __init__(self):

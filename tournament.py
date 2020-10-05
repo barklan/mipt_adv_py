@@ -3,6 +3,7 @@
 from enemies import *
 from hero import *
 
+
 def annoying_input_int(message =''):
     answer = None
     while answer == None:
@@ -38,8 +39,8 @@ def game_tournament(hero, dragon_list):
     else:
         print('К сожалению, Вы проиграли...')
 
-def start_game():
 
+def start_game():
     try:
         print('Добро пожаловать в арифметико-ролевую игру с драконами!')
         print('Представьтесь, пожалуйста: ', end = '')
