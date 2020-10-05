@@ -1,56 +1,81 @@
 # coding: utf-8
 # license: GPLv3
-from enemies import *
-from hero import *
+from hero import Hero
+from random import randint, choice
+from enemies import generate_enemy_list
+import sys
 
 
-def annoying_input_int(message =''):
-    answer = None
-    while answer == None:
+
+def humanizer():
+    while True:
         try:
-            answer = int(input(message))
+            answer = int(input())
         except ValueError:
-            print('Вы ввели недопустимые символы')
+            print('Type a number, you shitface!')
     return answer
 
 
 def game_tournament(hero, dragon_list):
     for dragon in dragon_list:
-        print('Вышел', dragon._color, 'дракон!')
+        print('You are fighting', dragon._color, 'dragon!')
         while dragon.is_alive() and hero.is_alive():
-            print('Вопрос:', dragon.question())
-            answer = annoying_input_int('Ответ:')
+            print('Question:', dragon.question())
+            
+            inp = input('Answer:')
+            if inp == "exit":
+                sys.exit()
+            elif inp == dragon.get_cheat_code():
+                dragon._health = 0
+                break
+            else:
+                try:
+                    answer = int(inp)
+                except ValueError:
+                    answer = humanizer()
 
-            if dragon.check_answer(answer):
+                
+            if dragon.check_answer(int(answer)):
                 hero.attack(dragon)
                 hero._experience += randint(0,5)
-                print('Верно! \n** дракон кричит от боли **')
+                print('Right! \n** you hurted dragon **')
             else:
                 dragon.attack(hero)
                 hero._experience -= randint(0,5)
-                print('Ошибка! \n** вам нанесён удар... **')
+                print('Wrong! \n** you have been hit... **')
+        
+        ''' 
+        If we are here that means either we killed the dragon -
+            in that case we naturaly print the next message;
+        or we died - in that case the dragon is still alive and
+            we don't want to print the next message and we want to exit
+            immediatly and expect hero.is_alive to return False
+        '''
+
         if dragon.is_alive():
             break
-        print('Дракон', dragon._color, 'повержен!\n')
+        print('Dragon', dragon._color, 'defeated!\n')
+
 
     if hero.is_alive():
-        print('Поздравляем! Вы победили!')
-        print('Ваш накопленный опыт:', hero._experience)
+        print('Congrats, you won')
+        print('Your expirience:', hero._experience)
     else:
-        print('К сожалению, Вы проиграли...')
+        print('Sadly, you lost...')
 
 
 def start_game():
     try:
-        print('Добро пожаловать в арифметико-ролевую игру с драконами!')
-        print('Представьтесь, пожалуйста: ', end = '')
+        print('Welcome to arithmetic dragons!')
+        print('To exit the game - type `exit` at any time')
+        print('Identify yourself: ', end = '')
         hero = Hero(input())
 
-        dragon_number = 3
-        dragon_list = generate_dragon_list(dragon_number)
-        assert(len(dragon_list) == 3)
-        print('У Вас на пути', dragon_number, 'драконов!')
-        game_tournament(hero, dragon_list)
+        enemy_number = 3
+        enemy_list = generate_enemy_list(enemy_number)
+        assert(len(enemy_list) == 3)
+        print('You see', enemy_number, 'dragons!')
+        game_tournament(hero, enemy_list)
 
     except EOFError:
-        print('Поток ввода закончился. Извините, принимать ответы более невозможно.')
+        print('This is EOF message. You cannot submit any more answers.')
