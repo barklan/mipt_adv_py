@@ -20,10 +20,6 @@ class Animal:
     def set_description(self, description):
         self.__description = description
 
-    def get_str(self):
-        return f"Name: {self.get_name()}; Age: {self.get_age()}; \
-                        Description: {self.get_description()}\n---"
-    
     def __str__(self):
         return self.get_str()
 
@@ -34,9 +30,20 @@ class Zebra(Animal):
     def __init__(self, name, age, number_of_legs):
         super().__init__(name, age)
         self.__number_of_legs = number_of_legs
+        
+    def get_legs(self):
+        return self.__number_of_legs
+    
+    def get_str(self):
+        return f"Name: {self.get_name()}; Age: {self.get_age()}; \
+                        N of legs: {self.get_legs()}\n---"
 
 
 class Dolphin(Animal):
+    def get_str(self):
+        return f"Name: {self.get_name()}; Age: {self.get_age()};\n---"
+    
+    
     def swim_across_the_ocean(self):
         print('Swimming...')
     pass
