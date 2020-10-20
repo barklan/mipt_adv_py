@@ -1,0 +1,8 @@
+setup.py
+example_pkg_barklan.egg-info/PKG-INFO
+example_pkg_barklan.egg-info/SOURCES.txt
+example_pkg_barklan.egg-info/dependency_links.txt
+example_pkg_barklan.egg-info/top_level.txt
+my_mathematics/__init__.py
+my_mathematics/math.py
+my_mathematics/vector.py
