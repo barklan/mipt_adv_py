@@ -1,16 +1,13 @@
 
 from itertools import accumulate
-import numpy as np
 
 
 def maximize(lists, m):
+    squared_maxes = [max(lst)**2 for lst in lists]
+    polynomials = [p for p in accumulate(squared_maxes)]
     
-    max_list = []
-    for lst in lists:
-        max_list.append(max(lst)**2)
-    
-    return max(list(accumulate(max_list, lambda x, y : ((x + y) % 1000))))
-            
+    return max([x % m for x in polynomials])
+
 
 def test_maximize():
     lists = [
@@ -19,3 +16,17 @@ def test_maximize():
         [5, 7, 8, 9, 10]
     ]
     assert maximize(lists, m=1000) == 206
+    
+    lists = [
+            [1000, 4],
+            [7, 8, 9],
+            [5, 7, 8, 9, 10]
+        ]
+    assert maximize(lists, 1000) == (1000 ** 2 + 9 ** 2 + 10 ** 2) % 1000
+    
+    lists = [
+            [1, 1],
+            [1, 2],
+            [0, 3]
+        ]
+    assert maximize(lists, 10) == (1 ** 2 + 2 ** 2) % 10

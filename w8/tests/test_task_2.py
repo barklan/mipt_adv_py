@@ -17,3 +17,4 @@ def fib(n):
 def test_fib():
     assert fib(10)[0] == 0
     assert fib(11)[3] == 2
+    assert fib(4) == [0, 1, 1, 2]
