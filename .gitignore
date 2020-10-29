@@ -1,4 +1,6 @@
 __pycache__
 .ipynb_checkpoints/
 .vscode
-.w7/project/envs
+.pytest_cache/
+w7/project/build/
+w7/project2/env/
