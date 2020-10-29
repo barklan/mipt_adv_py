@@ -3,3 +3,4 @@ __pycache__
 .vscode
 .pytest_cache/
 w7/project/build/
+w7/project2/env/
