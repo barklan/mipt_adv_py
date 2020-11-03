@@ -1,5 +1,7 @@
-
 from itertools import permutations
+import sys, itertools, random
+sys.path.append('..')
+from w8_5 import get_permutations
 
 
 def get_permutations(s, n):

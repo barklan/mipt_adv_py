@@ -1,9 +1,9 @@
 
 from itertools import product
-
-
-def get_cartesian_product(a, b):
-    return list(product(a, b))
+import pytest
+import sys, itertools
+sys.path.append('..')
+from w8_4 import get_cartesian_product
 
 
 def test_product():
