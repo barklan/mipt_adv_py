@@ -1,4 +1,5 @@
-# mipt_advanced_python
+![self](self.jpg)
+
 
 [w3 [Files & Exceptions]](https://github.com/barklan/mipt_adv_py/blob/master/w3/3w.ipynb) \
 [w4 [Sys & Argparse]](https://github.com/barklan/mipt_adv_py/blob/master/w4/w4.ipynb) \
