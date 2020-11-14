@@ -66,22 +66,21 @@ class TextLoader():
         shutil.rmtree(self.master_path)
 
 
-if name
+if __name__ == '__main__':
+
+    href = 'http://cs.mipt.ru/advanced_python/extra/lab9/sample.zip'
+    a = TextLoader(href)
 
 
-href = 'http://cs.mipt.ru/advanced_python/extra/lab9/sample.zip'
-a = TextLoader(href)
+    print(f'Files found: {len(a)}\n----------\n')
 
 
-print(f'Files found: {len(a)}\n----------\n')
-
-
-for i in range(102):  
-    # We expect it to raise StopIteration around 100th
-    try:
-        one = next(a)
-        if ((i < 3) | (i > 96)):
-            print(one.read()[:50])
-            print('---')
-    except StopIteration:
-        print('There you go')
+    for i in range(102):  
+        # We expect it to raise StopIteration around 100th
+        try:
+            one = next(a)
+            if ((i < 3) | (i > 96)):
+                print(one.read()[:50])
+                print('---')
+        except StopIteration:
+            print('There you go')
