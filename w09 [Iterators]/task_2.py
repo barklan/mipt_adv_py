@@ -66,6 +66,8 @@ class TextLoader():
         shutil.rmtree(self.master_path)
 
 
+if name
+
 
 href = 'http://cs.mipt.ru/advanced_python/extra/lab9/sample.zip'
 a = TextLoader(href)
