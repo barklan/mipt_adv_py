@@ -2,3 +2,8 @@ numpy
 wheel
 setuptools
 pandas
+requests
+scikit-learn
+scipy
+matplotlib
+seaborn
