@@ -46,25 +46,15 @@ def dot_threaded(a: List[float], b: List[float], max_threads=1) -> float:
 
 def dot_mp(a: List[float], b: List[float], max_processes=1) -> float:
     
+    '''
+    Not working properly
+    '''
+
     dot_product = 0
-
-    # with ProcessPoolExecutor(max_workers=max_processes) as executor:
-    # a_chunked, b_chunked = chunker(a, max_processes), chunker(b, max_processes)
-        
-    # pool = Pool(processes=4)  # создаем пул из 4 процессов
-    # # в apply можно передать несколько аргументов
-    # results = [pool.apply(cube, args=(x,)) for x in range(1,10**10)]  # раскидываем числа от 1 до 7 по 4 процессам
-    # print('working on it...')
-    # print(results)
-
-    # pool = Pool(processes=4)
-    # то же самое, но с map. разбивает итерируемый объект (range(1,7)) на chunks и раскидывает аргументы по процессам
-    # results = pool.map(cube, range(1, 10**10))
-    # print(results)
 
 
     pool = Pool(processes=max_processes)
-    results = [pool.apply_async(dot, args=zip(a, b))]
+    results = [pool.apply_async(dot, args=list(zip(a, b)))]
     output = [p.get() for p in results]
     for partial in output:
         dot_product += partial
@@ -75,9 +65,7 @@ def dot_mp(a: List[float], b: List[float], max_processes=1) -> float:
 if __name__ == '__main__':
     a = list(np.random.randn(int(1e6)))
     b = list(np.random.randn(int(1e6)))
-    # with ProcessPoolExecutor(max_workers=1) as executor:
-    #     future = executor.submit(dot, a, b)
-    #     print(future.result())
+
     max_processes_list = [1, 4]
     for max_processes in max_processes_list:
         with Timer(name=f'p={max_processes}'):
