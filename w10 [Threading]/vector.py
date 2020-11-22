@@ -48,9 +48,6 @@ def dot(v1, v2):
     return dot
 
 
-def dot(z):
-    return np.dot(z[0], z[1])
-
 def dot_mp(a, b, max_workers=1):
 
     with Pool(max_workers) as p:
@@ -70,15 +67,15 @@ if __name__ == '__main__':
     Timer.timers = {}
     df = pd.DataFrame(columns=['index', 0]) 
     
-    for i in range(1):
+    for i in range(5):
     
-        a, b = (np.random.randn(5) for i in range(2))
+        a, b = (np.random.randn(100_000) for i in range(2))
 
         # # with threaded function
-        # max_workers_list = [1, 2, 4, 8, 16]
-        # for max_workers in max_workers_list:
-        #     with Timer(name=f'p=1;thr={max_workers}'):
-        #         print(dot_threaded(a, b, max_workers=max_workers))
+        max_workers_list = [1, 2, 4, 8, 16]
+        for max_workers in max_workers_list:
+            with Timer(name=f'p=1;thr={max_workers}'):
+                print(dot_threaded(a, b, max_workers=max_workers))
 
         # with mp
         max_workers_list = [1, 2, 4, 8, 16]
@@ -92,4 +89,5 @@ if __name__ == '__main__':
         Timer.timers = {}
 
     df.rename(columns = {'index':'name', 0:'time'}, inplace = True)
-    df.to_csv('vscode.csv', index=False)
+    print(df)
+    df.to_csv('vscode.csv', index=True)
