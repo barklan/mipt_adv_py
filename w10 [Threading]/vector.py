@@ -1,144 +1,95 @@
-from multiprocessing import Pool, Process, Lock
+# from multiprocessing import Pool, Process, Lock
 import concurrent.futures
-from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
+from concurrent.futures import ThreadPoolExecutor  # , ProcessPoolExecutor
 from typing import List
-import numpy as np
 from timer import Timer
+from multiprocessing import Pool
+
+import numpy as np
+import pandas as pd
 
 
 def chunker(a, n):
     'Splits list a in n chunks'
-    a_chunked = list(np.array_split(np.array(a), n))
+    return (np.array_split(a, n))
     a_chunked_m = [list(chunk) for chunk in a_chunked]
-    return a_chunked_m
+    # return a_chunked_m
 
 
-def dot(*args):
-    dot = 0
-    for i in args:
-        dot += i[0] * i[1]
-    return dot
+def dot_threaded(a: List[float], b: List[float], max_workers=1) -> float:
 
-
-def dot_threaded(a: List[float], b: List[float], max_threads=1) -> float:
-
-    assert len(a) == len(b), 'This is not numpy, you shitface.'
+    assert len(a) == len(b)
 
     accumulator = []
     dot_product = 0
 
-    def one_chunk_dot(a_chunk, b_chunk, l):
+    def one_chunk_dot(a_chunk, b_chunk):
         parital_dot = 0
         for i in range(len(a_chunk)):
             parital_dot += a_chunk[i] * b_chunk[i]
-        l.acquire()
         accumulator.append(parital_dot)
-        l.release()
 
-    lock = Lock()
-    a_chunked, b_chunked = chunker(a, max_threads), chunker(b, max_threads)
+    a_chunked, b_chunked = chunker(a, max_workers), chunker(b, max_workers)
 
-    with ThreadPoolExecutor(max_workers=max_threads) as executor:
-        for i in range(max_threads):
-            executor.submit(one_chunk_dot, a_chunked[i], b_chunked[i], lock)
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        for i in range(max_workers):
+            executor.submit(one_chunk_dot, a_chunked[i], b_chunked[i])
 
     for i in accumulator:
         dot_product += i
 
     return dot_product
 
-def one_chunk_dot_z(zipped):
-    parital_dot = 0
-    for k, m in zipped:
-        parital_dot += k * m
-    accumulator.append(parital_dot)
+
+def dot(v1, v2):
+    dot = 0
+    for i in range(len(v1)):
+        dot += v1[i] * v2[i]
+    return dot
 
 
-accumulator = []
-dot_product = 0
-def dot_threaded2(a: List[float], b: List[float], max_threads=1) -> float:
+def dot(z):
+    return np.dot(z[0], z[1])
 
-    assert len(a) == len(b), 'This is not numpy, you shitface.'
+def dot_mp(a, b, max_workers=1):
 
-    # accumulator = []
-    # dot_product = 0
+    with Pool(max_workers) as p:
+        results = [p.apply(np.dot, args=(v1, v2))
+                   for v1, v2 in zip(np.array_split(a, max_workers),
+                                     np.array_split(b, max_workers))]
+        # accumulator = p.map(dot, a, b)
 
-    # def one_chunk_dot_z(zipped, l):
-    #     parital_dot = 0
-    #     for k, m in zipped:
-    #         parital_dot += k * m
-    #     accumulator.append(parital_dot)
-        # return parital_dot
+    dot_product = sum(results)
 
-    # def one_chunk_dot(a_chunk, b_chunk, l):
-    #     parital_dot = 0
-    #     for i in range(len(a_chunk)):
-    #         parital_dot += a_chunk[i] * b_chunk[i]
-    #     l.acquire()
-    #     accumulator.append(parital_dot)
-    #     l.release()
-        # return parital_dot
-        # l.acquire()
-        # accumulator.append(parital_dot)
-        # l.release()
-
-    lock = Lock()
-    a_chunked, b_chunked = chunker(a, max_threads), chunker(b, max_threads)
-    zipped = zip(a, b)
-
-    print('milestone 1')
-
-    with ProcessPoolExecutor(max_workers=max_threads) as executor:
-        for parital_dot in executor.map(one_chunk_dot_z, (zipped)):
-            print('inside')
-            # accumulator.append(parital_dot)
-
-    # for i in accumulator:
-    #     dot_product += i
-
-    # return dot_product
-
-
-
-
-
-def dot_mp(a: List[float], b: List[float], max_processes=1) -> float:
-    
-    '''
-    Not working properly
-    '''
-
-    dot_product = 0
-
-
-    pool = Pool(processes=max_processes)
-    results = [pool.apply_async(dot, args=list(zip(a, b)))]
-    output = [p.get() for p in results]
-    for partial in output:
-        dot_product += partial
+    assert round(dot_product, 5) == round(np.dot(np.array(a), np.array(b)), 5)
 
     return dot_product
 
 
 if __name__ == '__main__':
-    a = list(np.random.randn(int(1e6)))
-    b = list(np.random.randn(int(1e6)))
-
-
-    # with threaded function
-    a_list, b_list = list(a), list(b)
-    max_threads_list = [1, 4]
-    for max_threads in max_threads_list:
-        with Timer(name=f'p=1;thr={max_threads}'):
-            print(dot_threaded(a_list, b_list, max_threads=max_threads))
-
+    Timer.timers = {}
+    df = pd.DataFrame(columns=['index', 0]) 
     
-    # with threaded function
-    a_list, b_list = list(a), list(b)
-    max_threads_list = [1, 4]
-    for max_threads in max_threads_list:
-        with Timer(name=f'mp;p={max_threads}'):
-            dot_threaded2(a_list, b_list, max_threads=max_threads)
-            for i in accumulator:
-                dot_product += i
-            print(dot_product)
+    for i in range(1):
+    
+        a, b = (np.random.randn(5) for i in range(2))
+
+        # # with threaded function
+        # max_workers_list = [1, 2, 4, 8, 16]
+        # for max_workers in max_workers_list:
+        #     with Timer(name=f'p=1;thr={max_workers}'):
+        #         print(dot_threaded(a, b, max_workers=max_workers))
+
+        # with mp
+        max_workers_list = [1, 2, 4, 8, 16]
+        for max_workers in max_workers_list:
+            with Timer(name=f'p={max_workers}'):
+                print(dot_mp(a, b, max_workers=max_workers))
+        
+
+        df_temp = pd.DataFrame.from_dict(Timer.timers, orient='index').reset_index()
+        df = df.append(df_temp, ignore_index=True)
+        Timer.timers = {}
+
+    df.rename(columns = {'index':'name', 0:'time'}, inplace = True)
+    df.to_csv('vscode.csv', index=False)
