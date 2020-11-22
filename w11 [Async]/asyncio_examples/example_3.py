@@ -12,11 +12,8 @@ async def say_after(delay, what):
 
 
 async def main():
-    task1 = asyncio.create_task(
-        say_after(3, 'hello'))
-
-    task2 = asyncio.create_task(
-        say_after(3, 'world'))
+    task1, task2 = (asyncio.create_task(say_after(2, word))
+                    for word in ('hello', 'world'))
 
     start = time.time()
 
@@ -27,6 +24,6 @@ async def main():
 
     finish = time.time() - start
     print(f'runtime: {finish:.2f} seconds')
-    
+
 
 asyncio.run(main())
