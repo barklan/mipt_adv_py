@@ -7,3 +7,7 @@ scikit-learn
 scipy
 matplotlib
 seaborn
+aiohttp
+pytest
+beautifulsoup4
+scrapy

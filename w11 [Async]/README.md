@@ -54,6 +54,8 @@ ioloop.run_until_complete(asynchronous())
 и запишите эту строку целиком в файл `found.txt`. Запись в файл и загрузка сайта должны быть асинхронными.
 Для работы с файлами используйте `aiofile`.
 
+# TODO
+- install anaconda in wsl (already downloaded), and create env for vscode in wsl
 
 ## testing
 
