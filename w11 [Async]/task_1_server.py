@@ -27,3 +27,4 @@ async def bulk_request(n) -> None:
 start = time.time()
 asyncio.run(bulk_request(100))
 print(f'\n\n runtime: {time.time() - start:.3f} seconds')
+print('ehydfdf')
