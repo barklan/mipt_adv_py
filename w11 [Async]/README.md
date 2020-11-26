@@ -1,4 +1,4 @@
-# Asynchronous Programming and web scraping
+# Week 11 - Asynchronous Programming and web scraping
 
 
 
@@ -22,7 +22,8 @@ _ДЗ частично взято с [соответствующей лабы](h
 можно запустить все запросы конкурентно и выбрать первый успешный.
 Потребуется `asyncio.wait()` и параметр `return_when`
 
-```python
+```py
+
 from collections import namedtuple
 import time
 import asyncio

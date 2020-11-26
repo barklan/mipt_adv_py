@@ -1,6 +1,7 @@
 from collections import namedtuple
 import time
 import asyncio
+import concurrent.futures
 from concurrent.futures import FIRST_COMPLETED
 import aiohttp
 
@@ -20,7 +21,7 @@ async def asynchronous():
     # TODO:
     # создание футур для сервисов
     # используйте FIRST_COMPLETED
-    concurrent.futures.wait(fs, timeout=None, return_when=ALL_COMPLETED)
+    concurrent.futures.wait(fs, timeout=None, return_when=FIRST_COMPLETED)
 
 
 asyncio.run(asynchronous())
