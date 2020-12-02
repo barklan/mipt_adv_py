@@ -7,7 +7,15 @@ scikit-learn
 scipy
 matplotlib
 seaborn
-aiohttp
+aiohttp[speedups]
+aiofile
 pytest
 beautifulsoup4
 scrapy
+fastapi
+uvicorn
+gunicorn
+flake8
+pillow
+django
+psycopg2-binary

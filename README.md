@@ -17,7 +17,3 @@ w10 - Threading & Multiprocessing
 w11 - Coroutines, asyncio, web scraping, telegram bots, testing
 
 w12 - regex
-
-wxx - flask --> use django instead
-- don't forget to look at [Deploying PyTorch in Python via a REST API with Flask](https://pytorch.org/tutorials/intermediate/flask_rest_api_tutorial.html)
-- also try to use Docker to deploy a django application
