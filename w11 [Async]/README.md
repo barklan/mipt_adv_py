@@ -4,10 +4,9 @@
 
 - [`asyncio` — Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)
 - [Coroutines and Tasks](https://docs.python.org/3/library/asyncio-task.html)
-- [Async IO in Python: A Complete Walkthrough](https://realpython.com/async-io-python/#a-full-program-asynchronous-requests)
 
 
-## asyncio & aiohttp
+## asyncio
 Число в скобках - количество баллов.
 
 _ДЗ частично взято с [соответствующей лабы](http://cs.mipt.ru/advanced_python/lessons/lab11.html)_.
@@ -28,18 +27,9 @@ _ДЗ частично взято с [соответствующей лабы](h
 и запишите эту строку целиком в файл `found.txt`. Запись в файл и загрузка сайта должны быть асинхронными.
 Для работы с файлами используйте `aiofile`.
 
-## testing
-
-- pytest -> hypothesis
-- unittest
-- doctest
-
-## Telegram bots
-- aiogram -> write a new bot
-
 ## Web Scraping
 
 - urllib
 - bs4
 - [**`scrapy`**](https://scrapy.org/)
-- selenium web driver
+- selenium

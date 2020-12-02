@@ -19,3 +19,5 @@ flake8
 pillow
 django
 psycopg2-binary
+selenium
+hypothesis
