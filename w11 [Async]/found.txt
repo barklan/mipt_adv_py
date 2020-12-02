@@ -1,0 +1,1007 @@
+<a class="navbar-brand" href="https://mipt.one/">
+<img alt="Logo" src="images/mipt_logo.png" style="width:40px;"/>
+				  MIPT.one 
+			</a>
+<a class="weatherwidget-io" data-basecolor="" data-days="3" data-icons="Climacons Animated" data-label_1="Погода" data-label_2="в Долгопрудном" data-mode="Current" data-theme="pure" href="https://forecast7.com/ru/55d9537d50/dolgoprudny/">Погода в Долгопрудном</a>
+<a href="https://text.ru/" rel="noreferrer" target="_blank">Проверка на плагиат</a>
+<a data-placement="right" data-toggle="tooltip" href="https://mipt1.ru/" rel="noreferrer" target="_blank" title="Полезная функция - поиск задач в Корявове">В помощь раздолбаю</a>
+<a href="https://vk.com/fanclub_letchikleha" rel="noreferrer" target="_blank">Клуб фанатов ЛЛ</a>
+<a href="https://drive.google.com/drive/folders/0B5U2D1zceCRyZ1FDaWVUUzNWVVE" rel="noreferrer" target="_blank">Тупой скат </a>
+<a href="https://vk.com/tupoy_skat" rel="noreferrer" target="_blank">VK</a>
+<a href="https://drive.google.com/drive/folders/0BzLQByfHfn5bd1hETFJYc2x3UzQ" rel="noreferrer" target="_blank">Наследие 2.0</a>
+<a href="https://drive.google.com/drive/folders/1nAHobOEDrF2bgNwkcbYO_ib3lARjrhc-" rel="noreferrer" target="_blank">MIPT+RANEPA Data Base</a>
+<a href="https://vk.com/t_p_phystech" rel="noreferrer" target="_blank">ТПФ</a>
+<a href="https://vk.com/club188560953" rel="noreferrer" target="_blank">Лаборант Дима и Карлсон</a>
+<a data-placement="right" data-toggle="tooltip" href="https://mipt.ru/education/elektronnoe-obuchenie/virtualRooms/" rel="noreferrer" target="_blank" title="Видеолекции Физтеха">Виртуальные аудитории МФТИ</a>
+<a data-placement="right" data-toggle="tooltip" href="https://mipt.ru/online/" rel="noreferrer" target="_blank" title="Видеолекции Физтеха">Онлайн-лекции МФТИ</a>
+<a data-placement="right" data-toggle="tooltip" href="https://mipt.lectoriy.ru/" rel="noreferrer" target="_blank" title="Видеолекции Физтеха">Лекторий МФТИ</a>
+<a data-placement="right" data-toggle="tooltip" href="https://www.feynmanlectures.caltech.edu/" rel="noreferrer" target="_blank" title="Курс лекций по общей физике, прочитанный Ричардом Фейнманом в 1960-х в Калифорнийском технологическом институте. Заходит очень хорошо">The Feynman Lectures on Physics</a>
+<a data-html="true" data-placement="right" data-toggle="tooltip" href="http://moodle.phystech.edu/login/index.php" rel="noreferrer" target="_blank" title="&lt;img src='images/botayenglish_400.jpg'&gt;">Moodle</a>
+<a href="https://translate.google.com/" rel="noreferrer" target="_blank">Google Translate</a>
+<a data-placement="right" data-toggle="tooltip" href="https://chrome.google.com/webstore/detail/moodle-breaker/engmdgoencliofhoomjomajchpiljoio" rel="noreferrer" target="_blank" title="Расширение для Chrome, ломающее квизы">Moodle Breaker</a>
+<a data-placement="right" data-toggle="tooltip" href="http://ejudge.mipt.ru/" rel="noreferrer" target="_blank" title="Ссылки на все контесты">Ejudge</a>
+<a href="https://www.wolframalpha.com/" rel="noreferrer" target="_blank">Wolfram|Alpha</a>
+<a href="https://www.symbolab.com/" rel="noreferrer" target="_blank">Symbolab</a>
+<a href="https://www.desmos.com/calculator" rel="noreferrer" target="_blank">Desmos Graphing</a>
+<a href="https://docs.google.com/document/" rel="noreferrer" target="_blank">Google Docs</a>
+<a href="https://docs.google.com/spreadsheets/" rel="noreferrer" target="_blank">Google Sheets</a>
+<a href="https://docs.google.com/presentation/" rel="noreferrer" target="_blank">Google Slides</a>
+<a href="https://pixlr.com/x/" rel="noreferrer" target="_blank">Pixlr X</a>
+<a href="https://lib.mipt.ru/" rel="noreferrer" target="_blank">Эл. библ. Физтеха</a>
+<a data-placement="right" data-toggle="tooltip" href="https://ru.book4you.org/" rel="noreferrer" target="_blank" title="Самая большая электронная библиотека. Здесь есть всё">Z-Lib</a>
+<a href="loginlibhuwhnmis.onion/" rel="noreferrer" target="_blank">.onion ссылка</a>
+<a href="http://flibustahezeous3.onion/" rel="noreferrer" target="_blank">Флибуста .onion</a>
+<a href="https://rutracker.org/forum/index.php" rel="noreferrer" target="_blank">Rutracker (заблокирован)</a>
+<a href="https://profile.mipt.ru/" rel="noreferrer" target="_blank">Личный кабинет МФТИ</a>
+<a href="https://mipt.ru/about/departments/uchebniy/schedule/" rel="noreferrer" target="_blank">Расписания</a>
+<a href="https://lms.mipt.ru/login/index.php" rel="noreferrer" target="_blank">LMS МФТИ</a>
+<a href="https://mipt.ru/students/life/poliklinika/" rel="noreferrer" target="_blank">Поликлиника МФТИ</a>
+<a data-placement="right" data-toggle="tooltip" href="http://wikimipt.org/wiki/" rel="noreferrer" target="_blank" title="Cайт о преподавателях МФТИ">ВикиФизтех</a>
+<a data-placement="right" data-toggle="tooltip" href="http://miptstream.ru/" rel="noreferrer" target="_blank" title="Студенческое СМИ Физтеха">Поток</a>
+<a data-placement="right" data-toggle="tooltip" href="https://vk.com/@dbmp_council-pamyatka-pervokursnika" rel="noreferrer" target="_blank" title="Неплохая памятка первокурсника от студсовета ФБМФ">Памятка первокурсника</a>
+<a href="https://mipt.one/images/miptmap.png" rel="noreferrer" target="_blank">Карта МФТИ</a>
+<a href="https://mipt.ru/education/chair/mathematics/" rel="noreferrer" target="_blank">Каф. высшей математики</a>
+<a href="https://mipt.ru/education/chair/sport/" rel="noreferrer" target="_blank">Департамент ... спорта</a>
+<a href="https://docs.google.com/spreadsheets/d/1WQTbTC6MpcvPmfJOpiPNoM8vMLMwi6UBAE1f3xiC4_c/edit?usp=sharing" rel="noreferrer" target="_blank">Спортивные секции контакты</a>
+<a class="clearnet" href="https://mipt.ru/education/chair/" rel="noreferrer" target="_blank">Еще кафедры</a>
+<a data-placement="right" data-toggle="tooltip" href="https://mipt.ru/it/services/pochtovye-servisy/polucheniye_pochtovogo_akkaunta_v_domene_phystech_edu/poluchenie-pochtovogo-akkaunta-v-domene-phystech-edu-dlya-studentov" rel="noreferrer" target="_blank" title="Для аккаунтов @phystech.edu есть доступ к Google Drive с увеличенным лимитом 5ТБ">Получение @phystech.edu </a>
+<a href="https://mipt.ru/it/services/poluchenie-litsenzionnogo-po/poluchenie-litsenzionnogo-po" rel="noreferrer" target="_blank">ПО от Microsoft</a>
+<a data-placement="right" data-toggle="tooltip" href="https://docs.google.com/forms/d/e/1FAIpQLScmCLlgmGT_pzSAc7oBbxU4Yi9njZj51peGzkYkJXtORpmFEQ/viewform" rel="noreferrer" target="_blank" title="Физтехам доступны курсы от Физтеха на Coursera">Доступ к курсам на Coursera</a>
+<a href="https://mipt.ru/profkom/" rel="noreferrer" target="_blank">Профком МФТИ </a>
+<a href="https://vk.com/profkom_phystech" rel="noreferrer" target="_blank">VK</a>
+<a href="https://lk.ranepa.ru/profile/" rel="noreferrer" target="_blank">ЛК Ранх'а </a>
+<a href="https://lms.ranepa.ru/login/index.php" rel="noreferrer" target="_blank">LMS Ранх'а</a>
+<a data-placement="right" data-toggle="tooltip" href="https://palqa.ru/" rel="noreferrer" target="_blank" title="Поке и роллы за 40 минут">Palqa</a>
+<a href="https://vk.com/palqa" rel="noreferrer" target="_blank">VK</a>
+<a href="https://veryfood.ru/" rel="noreferrer" target="_blank">Veryfood</a>
+<a href="https://vk.com/coffeemipt" rel="noreferrer" target="_blank">Кофейня 6-ки</a>
+<a href="https://printbox.io/" rel="noreferrer" target="_blank">Printbox</a>
+<a href="http://mipt-telecom.ru/" rel="noreferrer" target="_blank">МФТИ-Телеком</a>
+<a href="https://docs.google.com/document/d/1NQTDzBdDqSEN41W76ettTOdQ6SoAfF9cPvHAWyir1II/edit?usp=sharing" rel="noreferrer" target="_blank">Велопрокат</a>
+<a href="https://buy.mipt.cc/" rel="noreferrer" target="_blank">Барахолка Физтеха</a>
+<a class="clearnet" href="https://vk.com/phystech.vape" rel="noreferrer" target="_blank">Физтех.Вейп</a>
+<a class="banner__container__link" href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank">
+<span class="banner__container__border">
+<span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
+</span>
+</a>
+<a class="item-link" href="/abiturs/">Абитуриентам</a>
+<a class="topline__logo-block" href="https://www.rbc.ru/"><span class="topline__logo"></span></a>
+<a class="item-link" href="/abiturs/admission_board/">Приемная комиссия</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://tv.rbc.ru/?utm_source=topline"}' href="https://tv.rbc.ru/?utm_source=topline">
+            Телеканал
+                    </a>
+<a class="item-link" href="/abiturs/phystech_center">Физтех-центр</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/newspaper/?utm_source=topline"}' href="https://www.rbc.ru/newspaper/?utm_source=topline">
+            Газета
+                    </a>
+<a class="item-link" href="/abiturs/school/">ЗФТШ</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://trends.rbc.ru/trends/?utm_source=topline"}' href="https://trends.rbc.ru/trends/?utm_source=topline">
+            Тренды
+                    </a>
+<a class="item-link" href="/abiturs/schools/">Школы</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://plus.rbc.ru/?utm_source=topline"}' href="https://plus.rbc.ru/?utm_source=topline">
+            РБК+
+                    </a>
+<a class="item-link" href="/abiturs/olympiads/">Олимпиады и конференции</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://pro.rbc.ru/"}' href="https://pro.rbc.ru/">
+            Pro
+                    </a>
+<a class="item-link" href="/students/">Студентам</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://quote.rbc.ru/?utm_source=topline"}' href="https://quote.rbc.ru/?utm_source=topline">
+            Инвестиции
+                            <span class="topline__item__image-block"><img alt="" class="topline__item__image" src="https://s0.rbk.ru/v6_top_pics/media/img/8/63/756026599132638.svg"/></span></a>
+<a class="item-link" href="/alumni/" target="_blank">Выпускникам</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.autonews.ru/?utm_source=topline"}' href="https://www.autonews.ru/?utm_source=topline">
+            Авто
+                    </a>
+<a class="lang-link" href="/english/">Ru</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://sportrbc.ru/?utm_source=topline"}' href="https://sportrbc.ru/?utm_source=topline">
+            Спорт
+                    </a>
+<a class="lang-link" href="/english/">En</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://realty.rbc.ru/?utm_source=topline"}' href="https://realty.rbc.ru/?utm_source=topline">
+            Недвижимость
+                    </a>
+<a class="server-tree-link" href="/servertree" title="Карта сайта">Карта сайта</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://style.rbc.ru/?utm_source=topline"}' href="https://style.rbc.ru/?utm_source=topline">
+            Стиль
+                    </a>
+<a class="b_sight_y" href="/education/chair/mathematics/?b_sight=Y" itemprop="copy"><img src="/css/images/eye.png"/></a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/national"}' href="https://www.rbc.ru/national">
+            Национальные проекты
+                    </a>
+<a class="profile-link" href="/profile">Личный кабинет</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/crypto/?utm_source=topline"}' href="https://www.rbc.ru/crypto/?utm_source=topline">
+            Крипто
+                    </a>
+<a class="login-button" href="/auth/">Вход для администраторов</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://marketing.rbc.ru/?utm_source=topline"}' href="https://marketing.rbc.ru/?utm_source=topline">
+            Исследования
+                    </a>
+<a class="register-link" href="/auth/?register=yes">Регистрация</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://ratings.ru/?utm_source=topline"}' href="https://ratings.ru/?utm_source=topline">
+            Кредитные рейтинги
+                    </a>
+<a class="forgot-password-link" href="/auth/?forgot_password=yes">Забыли пароль?</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "http://biztorg.ru/offers/main?utm_source=topline"}' href="http://biztorg.ru/offers/main?utm_source=topline">
+            Продажа бизнеса
+                    </a>
+<a class="mipt-logo-link" href="/" id="logo" title="На главную МФТИ"></a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://bc.rbc.ru/?utm_source=topline"}' href="https://bc.rbc.ru/?utm_source=topline">
+            Конференции
+                    </a>
+<a class="site-logo-link" href="/education/chair/mathematics/" id="logo_section" title="На главную"></a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/magazine/?utm_source=topline"}' href="https://www.rbc.ru/magazine/?utm_source=topline">
+            Журнал
+                    </a>
+<a class="it-services-link" href="/it/?select=services" title="Сервисы IT">
+          Сервисы IT        </a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/awards/?utm_source=topline"}' href="https://www.rbc.ru/awards/?utm_source=topline">
+            Премия РБК 2019
+                    </a>
+<a class="showSearch" id="showSearch" name="s" title="Поиск по сайту">Поиск</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "http://spb-heroes.rbc.ru/?utm_source=topline"}' href="http://spb-heroes.rbc.ru/?utm_source=topline">
+            Герои СПб 2020
+                    </a>
+<a class="phonebook-link" href="/about/general/contacts/phones.php" title="Тел. справочник">Тел. справочник</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://specials.rbc.ru/?t=on-air"}' href="https://specials.rbc.ru/?t=on-air">
+            Спецпроекты
+                    </a>
+<a class="support-mipt-link" href="/alumni/funds/" onclick="ga('send', 'event', 'Knopka', 'Podderzhat'); yaCounter28096458.reachGoal('PODDERZHAT'); return true;"><span class="link-text">Поддержать МФТИ</span></a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "http://rescore.online/?utm_source=topline"}' href="http://rescore.online/?utm_source=topline">
+            Проверка контрагентов
+                    </a>
+<a class="item-link" href="/about/">О Физтехе</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://lib.rbc.ru/?utm_source=topline"}' href="https://lib.rbc.ru/?utm_source=topline">
+            РБК Библиотека
+                    </a>
+<a class="item-link" href="/about/general/">Общая информация</a>
+<a class="topline__item js-yandex-counter" data-yandex-name="from_topline" data-yandex-params='{url: "https://www.rbc.ru/companies/?utm_source=topline"}' href="https://www.rbc.ru/companies/?utm_source=topline">
+            РБК Компании
+                    </a>
+<a class="item-link" href="/persons/rectorat/">Руководство</a>
+<a class="topline__item topline__item_special js-yandex-counter" data-yandex-name="topline_1" href="https://www.rbc.ru/trends/education/?utm_source=topline"><span class="topline__item_special-inner">Экономика образования</span></a>
+<a class="item-link" href="/education/departments/">Физтех-школы</a>
+<a class="topline__item topline__item_special js-yandex-counter" data-yandex-name="topline_2" href="https://style.rbc.ru/health/?utm_source=rbc&amp;utm_medium=topline&amp;utm_campaign=health_button"><span class="topline__item_special-inner">Здоровье</span></a>
+<a class="item-link" href="/about/departments/">Подразделения</a>
+<a class="topline__dropdown__handle js-topline-dropdown" href="">
+                            ...
+                        </a>
+<a class="item-link" href="/about/pressarticles/">Публикации в СМИ</a>
+<a class="topline__disable-adv__button" href="https://auth.rbc.ru/login?from=disable_advertising_topline">Скрыть баннеры</a>
+<a class="item-link" href="/about/mipt_rankings/">МФТИ в рейтингах</a>
+<a class="topline__region__icon-link js-regions-toggle__handler"><span class="js-region-current"><span class="topline__region__icon"></span></span></a>
+<a class="item-link" href="/about/UN-sustainable-development-goals.php">Вклад МФТИ в устойчивое развитие</a>
+<a class="topline__region__detector__button js-region-detector-button" data-answer="yes" href="#">Да</a>
+<a class="item-link" href="/about/istoriya-fiztekha.php">История Физтеха</a>
+<a class="topline__region__detector__link js-region-detector-button" data-answer="no" href="#">Выбрать другое</a>
+<a class="item-link" href="/sveden/">Сведения об образовательной организации</a>
+<a class="topline__region__link js-region-item js-topline-sub-item bold active" data-id="world" href="//www.rbc.ru/">
+                                    Весь мир
+                                </a>
+<a class="item-link" href="/about/partners/">Партнеры</a>
+<a class="topline__region__link js-region-item js-topline-sub-item bold" data-cookie="russia/sankt-peterburg_i_oblast" data-id="spb_sz" data-title="Санкт-Петербург и область" data-url="http://www.rbc.ru/" href="//www.rbc.ru/">
+                                    Санкт-Петербург и область
+                                </a>
+<a class="item-link" href="/abitur/">Абитуриенту</a>
+<a class="topline__region__link js-region-item js-topline-sub-item bold" data-cookie="russia/sverdlovskaya_obl" data-id="ekb" data-title="Екатеринбург" data-url="http://ekb.rbc.ru/" href="//ekb.rbc.ru/">
+                                    Екатеринбург
+                                </a>
+<a class="item-link" href="/about/profilaktika-koronavirusa/">Профилактика коронавируса</a>
+<a class="topline__region__link js-region-item js-topline-sub-item bold" data-cookie="russia_sfo" data-id="nsk" data-title="Новосибирск" data-url="http://nsk.rbc.ru/" href="//nsk.rbc.ru/">
+                                    Новосибирск
+                                </a>
+<a class="item-link" href="/education/">Образование</a>
+<a class="topline__region__link js-region-item js-topline-sub-item" data-cookie="russia/bashkortostan" data-id="ufa" data-title="Башкортостан" data-url="http://ufa.rbc.ru/" href="//ufa.rbc.ru/">
+                                    Башкортостан
+                                </a>
+<a class="item-link" href="/education/elektronnoe-obuchenie/">Дистанционное обучение</a>
+<a class="topline__region__link js-region-item js-topline-sub-item" data-cookie="russia/vologodskaya_obl" data-id="vo" data-title="Вологодская область" data-url="http://vo.rbc.ru/" href="//vo.rbc.ru/">
+                                    Вологодская область
+                                </a>
+<a class="item-link" href="/education/chair/">Институтские кафедры и департаменты</a>
+<a class="topline__region__link js-region-item js-topline-sub-item" data-cookie="russia/kaliningradskaya_obl" data-id="kaliningrad" data-title="Калининград" data-url="http://kaliningrad.rbc.ru/" href="//kaliningrad.rbc.ru/">
+                                    Калининград
+                                </a>
+<a class="item-link" href="/persons/profs/">Преподаватели</a>
+<a class="topline__region__link js-region-item js-topline-sub-item" data-cookie="russia/krasnodarskiy_kray" data-id="krasnodar" data-title="Краснодарский край" data-url="http://kuban.rbc.ru/" href="//kuban.rbc.ru/">
+                                    Краснодарский край
+                                </a>
+<a class="item-link" href="/education/chairs/">Базовые и факультетские кафедры</a>
+<a class="topline__region__link js-region-item js-topline-sub-item" data-cookie="russia/nijegorodskaya_obl" data-id="nn" data-title="Нижний Новгород" data-url="http://nn.rbc.ru/" href="//nn.rbc.ru/">
+                                    Нижний Новгород
+                                </a>
+<a class="item-link" href="/abiturs/">Абитуриентам и школьникам</a>
+<a class="topline__region__link js-region-item js-topline-sub-item" data-cookie="russia/permskij_kraj" data-id="perm" data-title="Пермский край" data-url="http://perm.rbc.ru/" href="//perm.rbc.ru/">
+                                    Пермский край
+                                </a>
+<a class="item-link" href="/education/foreign/">Иностранным гражданам</a>
+<a class="topline__region__link js-region-item js-topline-sub-item" data-cookie="russia/rostovskaya_obl" data-id="rostov" data-title="Ростов-на-Дону" data-url="http://rostov.rbc.ru/" href="//rostov.rbc.ru/">
+                                    Ростов-на-Дону
+                                </a>
+<a class="item-link" href="/cdpo/">Повышение квалификации</a>
+<a class="topline__region__link js-region-item js-topline-sub-item" data-cookie="russia/tatarstan" data-id="tatarstan" data-title="Татарстан" data-url="http://rt.rbc.ru/" href="//rt.rbc.ru/">
+                                    Татарстан
+                                </a>
+<a class="item-link" href="/education/post-graduate/">Диссертационные советы</a>
+<a class="topline__region__link js-region-item js-topline-sub-item" data-cookie="russia/tyumenskaya_obl" data-id="tyumen" data-title="Тюмень" data-url="http://t.rbc.ru/" href="//t.rbc.ru/">
+                                    Тюмень
+                                </a>
+<a class="item-link" href="/education/joint_programs/">Совместные программы</a>
+<a class="topline__region__link js-region-item js-topline-sub-item" data-cookie="russia_chernozemje" data-id="chr" data-title="Черноземье" data-url="http://chr.rbc.ru/" href="//chr.rbc.ru/">
+                                    Черноземье
+                                </a>
+<a class="item-link" href="https://mipt.ru/aspirantura/">Аспирантура</a>
+<a class="topline__region__link js-region-item js-topline-sub-item" data-cookie="russia/kavkaz" data-id="kavkaz" data-title="Кавказ" data-url="http://kavkaz.rbc.ru/" href="//kavkaz.rbc.ru/">
+                                    Кавказ
+                                </a>
+<a class="item-link" href="/science/">Наука и инновации</a>
+<a class="topline__search__close js-search-close" href="#"><span></span><span></span></a>
+<a class="item-link" href="/science/labs/">Лаборатории и научные центры</a>
+<a class="topline__search__rubric__link" href="https://www.rbc.ru/politics" itemprop="url">
+                                                                                    Политика
+                                                                            </a>
+<a class="item-link" href="/about/departments/ckpn/">Центр коллективного пользования</a>
+<a class="topline__search__rubric__link" href="https://www.rbc.ru/economics" itemprop="url">
+                                                                                    Экономика
+                                                                            </a>
+<a class="item-link" href="/science/scdep/">Сопровождение научной деятельности</a>
+<a class="topline__search__rubric__link" href="https://www.rbc.ru/finances" itemprop="url">
+                                                                                    Финансы
+                                                                            </a>
+<a class="item-link" href="/science/visiting_prof">Визит-профессора МФТИ</a>
+<a class="topline__search__rubric__link" href="https://www.rbc.ru/business" itemprop="url">
+                                                                                    Бизнес
+                                                                            </a>
+<a class="item-link" href="/science/5top100/">Проект 5—100</a>
+<a class="topline__search__rubric__link" href="https://www.rbc.ru/technology_and_media" itemprop="url">
+                                                                                    Технологии и медиа
+                                                                            </a>
+<a class="item-link" href="/science/ntp/">Гранты и конкурсы</a>
+<a class="topline__search__rubric__link" href="https://www.rbc.ru/own_business" itemprop="url">
+                                                                                    Свое дело
+                                                                            </a>
+<a class="item-link" href="/science/support/">Программы развития</a>
+<a class="topline__search__rubric__link" href="https://www.rbc.ru/money" itemprop="url">
+                                                                                    Деньги
+                                                                            </a>
+<a class="item-link" href="/science/FIP/">ФИП</a>
+<a class="topline__search__rubric__link" href="http://www.rbc.ru/opinions" itemprop="url">
+                                                                                    Мнения
+                                                                            </a>
+<a class="item-link" href="http://mipt.ru/science/patent/">Отдел по интеллектуальной собственности</a>
+<a class="topline__auth__link js-topline-profile-link" href="#"></a>
+<a class="item-link" href="/science/scdep/nts/">Научно-технический совет</a>
+<a class="topline__auth__profile__menu__link js-paywall-login" href="https://auth.rbc.ru/login?tab=enter&amp;from=login_topline"><b>Вход</b></a>
+<a class="item-link" href="https://mipt.ru/news/?t=%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F">Конференции</a>
+<a class="topline__auth__profile__menu__link js-paywall-login" href="https://auth.rbc.ru/login?from=registration_topline"><b>Регистрация</b></a>
+<a class="item-link" href="/science/miptjournals/">Научные журналы МФТИ</a>
+<a class="topline__popup__main-link js-paywall-login" href="https://auth.rbc.ru/login?tab=enter&amp;from=login_topline">
+                                Вход                            </a>
+<a class="item-link" href="/science/articles_data_base/">База научных статей</a>
+<a class="topline__popup__main-link js-topline-open-popup-link" data-content="search" href="#">Поиск</a>
+<a class="item-link" href="/intellectual_activity_results/">Результаты интеллектуальной деятельности</a>
+<a class="topline__popup__main-link js-topline-open-popup-link" data-content="region" href="#">Смена региона</a>
+<a class="item-link" href="/science/vserossiyskiy-konkurs-nauchno-populyarnoy-zhurnalistiki-impuls/">Всероссийский конкурс научно-популярной журналистики «Импульс»</a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://tv.rbc.ru/?utm_source=topline"}' href="https://tv.rbc.ru/?utm_source=topline">Телеканал</a>
+<a class="item-link" href="https://zanauku.mipt.ru/">Новости науки</a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/newspaper/?utm_source=topline"}' href="https://www.rbc.ru/newspaper/?utm_source=topline">Газета</a>
+<a class="root-item-selected" href="javascript:void(0)"><img class="icomenu-page" id="icomenu-page">Новости</img></a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://trends.rbc.ru/trends/?utm_source=topline"}' href="https://trends.rbc.ru/trends/?utm_source=topline">Тренды</a>
+<a class="root-item" href="/education/chair/mathematics/about.php"><img class="icomenu-page" id="icomenu-page">О кафедре</img></a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://plus.rbc.ru/?utm_source=topline"}' href="https://plus.rbc.ru/?utm_source=topline">РБК+</a>
+<a class="root-item" href="/education/chair/mathematics/tutors/"><span>Преподаватели</span><img class="browse" src="/bitrix/components/alfa/menu/templates/mipt_left/images/menu-arrow.png"/></a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://pro.rbc.ru/"}' href="https://pro.rbc.ru/">Pro</a>
+<a class="" href="/education/chair/mathematics/tutors/professors/"><img class="icomenu-folder" id="icomenu-folder"> Профессора</img></a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://quote.rbc.ru/?utm_source=topline"}' href="https://quote.rbc.ru/?utm_source=topline">Инвестиции</a>
+<a class="" href="/education/chair/mathematics/tutors/docents/"><img class="icomenu-folder" id="icomenu-folder"> Доценты</img></a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.autonews.ru/?utm_source=topline"}' href="https://www.autonews.ru/?utm_source=topline">Авто</a>
+<a class="" href="/education/chair/mathematics/tutors/others/"><img class="icomenu-folder" id="icomenu-folder"> Старшие преподаватели</img></a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://sportrbc.ru/?utm_source=topline"}' href="https://sportrbc.ru/?utm_source=topline">Спорт</a>
+<a class="" href="/education/chair/mathematics/tutors/assistents/"><img class="icomenu-folder" id="icomenu-folder"> Ассистенты</img></a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://realty.rbc.ru/?utm_source=topline"}' href="https://realty.rbc.ru/?utm_source=topline">Недвижимость</a>
+<a class="" href="/education/chair/mathematics/tutors/filllist.php"><img class="icomenu-page" id="icomenu-page"/> Полный список</a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://style.rbc.ru/?utm_source=topline"}' href="https://style.rbc.ru/?utm_source=topline">Стиль</a>
+<a class="root-item" href="/education/chair/mathematics/process/"><span>Учебный процесс</span><img class="browse" src="/bitrix/components/alfa/menu/templates/mipt_left/images/menu-arrow.png"/></a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/national"}' href="https://www.rbc.ru/national">Национальные проекты</a>
+<a class="" href="/education/chair/mathematics/official/"><img class="icomenu-folder" id="icomenu-folder"> Официальные документы</img></a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/crypto/?utm_source=topline"}' href="https://www.rbc.ru/crypto/?utm_source=topline">Крипто</a>
+<a class="" href="/education/chair/mathematics/process/programmy-i-zadaniya/"><img class="icomenu-folder" id="icomenu-folder"/> Программы и задания</a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://marketing.rbc.ru/?utm_source=topline"}' href="https://marketing.rbc.ru/?utm_source=topline">Исследования</a>
+<a class="" href="https://mipt.ru/education/chair/mathematics/news/informatsiya_o_praktikumakh_v_osennem_semestre"> Практикум</a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://ratings.ru/?utm_source=topline"}' href="https://ratings.ru/?utm_source=topline">Кредитные рейтинги</a>
+<a class="" href="/education/chair/mathematics/process/courses.php"><img class="icomenu-page" id="icomenu-page"/> Курсы, читаемые на кафедре</a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "http://biztorg.ru/offers/main?utm_source=topline"}' href="http://biztorg.ru/offers/main?utm_source=topline">Продажа бизнеса</a>
+<a class="" href="/education/chair/mathematics/process/f_classroom/fakultativnye-kursy.php"><img class="icomenu-page" id="icomenu-page"/> Факультативные курсы (спецкурсы)</a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://bc.rbc.ru/?utm_source=topline"}' href="https://bc.rbc.ru/?utm_source=topline">Конференции</a>
+<a class="root-item" href="/education/chair/mathematics/study/"><span>Учебные материалы</span><img class="browse" src="/bitrix/components/alfa/menu/templates/mipt_left/images/menu-arrow.png"/></a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/magazine/?utm_source=topline"}' href="https://www.rbc.ru/magazine/?utm_source=topline">Журнал</a>
+<a class="" href="/education/chair/mathematics/study/d_obuch/"><img class="icomenu-folder" id="icomenu-folder"> Материалы для дистанционного обучения</img></a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/awards/?utm_source=topline"}' href="https://www.rbc.ru/awards/?utm_source=topline">Премия РБК 2019</a>
+<a class="" href="/education/chair/mathematics/study/uchebniki/"><img class="icomenu-folder" id="icomenu-folder"/> Учебники и учебные пособия по курсам лекций</a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "http://spb-heroes.rbc.ru/?utm_source=topline"}' href="http://spb-heroes.rbc.ru/?utm_source=topline">Герои СПб 2020</a>
+<a class="" href="/education/chair/mathematics/study/methods/"><img class="icomenu-folder" id="icomenu-folder"/> Учебно-методические пособия</a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://specials.rbc.ru/?t=on-air"}' href="https://specials.rbc.ru/?t=on-air">Спецпроекты</a>
+<a class="" href="/education/chair/mathematics/study/statlab/"><img class="icomenu-folder" id="icomenu-folder"/> Лабораторный практикум по статистике (ФИВТ, 2 курс)</a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "http://rescore.online/?utm_source=topline"}' href="http://rescore.online/?utm_source=topline">Проверка контрагентов</a>
+<a class="" href="/education/chair/mathematics/study/voprosniki/"><img class="icomenu-folder" id="icomenu-folder"/> Вопросы для самоконтроля студентов по курсам</a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://lib.rbc.ru/?utm_source=topline"}' href="https://lib.rbc.ru/?utm_source=topline">РБК Библиотека</a>
+<a class="" href="/education/chair/mathematics/razvitie/"><img class="icomenu-folder" id="icomenu-folder"/> Доказательство теорем с помощью компьютера</a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="click_hamburger" data-yandex-params='{url: "https://www.rbc.ru/companies/?utm_source=topline"}' href="https://www.rbc.ru/companies/?utm_source=topline">РБК Компании</a>
+<a class="" href="/education/chair/mathematics/study/d_obuch/"><img class="icomenu-folder" id="icomenu-folder"/> </a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="topline_2" href="https://style.rbc.ru/health/?utm_source=rbc&amp;utm_medium=topline&amp;utm_campaign=health_button"><span class="topline__item_special-inner">Здоровье</span></a>
+<a class="root-item" href="/education/chair/mathematics/exams/"><span>Экзамены (контроль успеваемости)</span><img class="browse" src="/bitrix/components/alfa/menu/templates/mipt_left/images/menu-arrow.png"/></a>
+<a class="topline__popup__submenu-item js-yandex-counter" data-yandex-name="topline_1" href="https://www.rbc.ru/trends/education/?utm_source=topline"><span class="topline__item_special-inner">Экономика образования</span></a>
+<a class="" href="/education/chair/mathematics/exams/zima/"><img class="icomenu-folder" id="icomenu-folder"> Осенний семестр (зимняя сессия)</img></a>
+<a class="topline__popup__search__rubric__link" href="https://www.rbc.ru/politics">
+                                                                                    Политика
+                                                                            </a>
+<a class="" href="/education/chair/mathematics/exams/leto/"><img class="icomenu-folder" id="icomenu-folder"/> Весенний семестр (летняя сессия)</a>
+<a class="topline__popup__search__rubric__link" href="https://www.rbc.ru/economics">
+                                                                                    Экономика
+                                                                            </a>
+<a class="" href="/education/chair/mathematics/exams/examstxt.php"><img class="icomenu-page" id="icomenu-page"/> О контроле знаний студентов</a>
+<a class="topline__popup__search__rubric__link" href="https://www.rbc.ru/finances">
+                                                                                    Финансы
+                                                                            </a>
+<a class="" href="/education/chair/mathematics/exams/exams.php"><img class="icomenu-page" id="icomenu-page"/> Варианты экзаменационных контрольных</a>
+<a class="topline__popup__search__rubric__link" href="https://www.rbc.ru/business">
+                                                                                    Бизнес
+                                                                            </a>
+<a class="" href="/education/chair/mathematics/exams/entrance/"><img class="icomenu-folder" id="icomenu-folder"/> Вступительные экзамены по математике</a>
+<a class="topline__popup__search__rubric__link" href="https://www.rbc.ru/technology_and_media">
+                                                                                    Технологии и медиа
+                                                                            </a>
+<a class="root-item" href="/education/chair/mathematics/nauka/"><span>Наука</span><img class="browse" src="/bitrix/components/alfa/menu/templates/mipt_left/images/menu-arrow.png"/></a>
+<a class="topline__popup__search__rubric__link" href="https://www.rbc.ru/own_business">
+                                                                                    Свое дело
+                                                                            </a>
+<a class="" href="/education/chair/mathematics/nauka/lab-AGHA/"><img class="icomenu-folder" id="icomenu-folder"> Лаборатория "Алгебраической геометрии и гомологической алгебры"</img></a>
+<a class="topline__popup__search__rubric__link" href="https://www.rbc.ru/money">
+                                                                                    Деньги
+                                                                            </a>
+<a class="" href="/education/chair/mathematics/seminar/"><img class="icomenu-folder" id="icomenu-folder"/> Научные семинары кафедры</a>
+<a class="topline__popup__search__rubric__link" href="http://www.rbc.ru/opinions">
+                                                                                    Мнения
+                                                                            </a>
+<a class="" href="/education/chair/mathematics/scientific_publication/"><img class="icomenu-folder" id="icomenu-folder"/> Научные публикации</a>
+<a class="topline__popup__region__link topline__popup__region__link_big js-region-item active" data-id="world" href="//www.rbc.ru/">
+                                    Весь мир
+                                </a>
+<a class="" href="/education/chair/mathematics/conf/"><img class="icomenu-folder" id="icomenu-folder"/> Научные конференции</a>
+<a class="topline__popup__region__link topline__popup__region__link_big js-region-item" data-cookie="russia/sankt-peterburg_i_oblast" data-id="spb_sz" data-title="Санкт-Петербург и область" data-url="http://www.rbc.ru/" href="//www.rbc.ru/">
+                                    С.-Петербург
+                                </a>
+<a class="" href="/education/chair/mathematics/photo/"><img class="icomenu-folder" id="icomenu-folder"/> Фото с мероприятий</a>
+<a class="topline__popup__region__link topline__popup__region__link_big js-region-item" data-cookie="russia/sverdlovskaya_obl" data-id="ekb" data-title="Екатеринбург" data-url="http://ekb.rbc.ru/" href="//ekb.rbc.ru/">
+                                    Екатеринбург
+                                </a>
+<a class="root-item" href="/education/chair/mathematics/olymp/"><span>Студенческая олимпиада по математике</span><img class="browse" src="/bitrix/components/alfa/menu/templates/mipt_left/images/menu-arrow.png"/></a>
+<a class="topline__popup__region__link topline__popup__region__link_big js-region-item" data-cookie="russia_sfo" data-id="nsk" data-title="Новосибирск" data-url="http://nsk.rbc.ru/" href="//nsk.rbc.ru/">
+                                    Новосибирск
+                                </a>
+<a class="" href="/education/chair/mathematics/olymp/mipt_olymp93-07/"><img class="icomenu-folder" id="icomenu-folder"> Методическое пособие по решению задач студенческой математической олимпиады (1993-2007)</img></a>
+<a class="topline__popup__region__link js-region-item" data-cookie="russia/bashkortostan" data-id="ufa" data-title="Башкортостан" data-url="http://ufa.rbc.ru/" href="//ufa.rbc.ru/">
+                                Башкортостан
+                            </a>
+<a class="" href="http://rkarasev.ru"><img class="icomenu-external" id="icomenu-external"/> Информация о проведении студенческих математических олимпиад размещается в разделе новостей на сайте http://rkarasev.ru</a>
+<a class="topline__popup__region__link js-region-item" data-cookie="russia/vologodskaya_obl" data-id="vo" data-title="Вологодская область" data-url="http://vo.rbc.ru/" href="//vo.rbc.ru/">
+                                Вологда
+                            </a>
+<a class="" href="http://rkarasev.ru/note/"><img class="icomenu-external" id="icomenu-external"/> Заметки о прошедших с 2009 олимпиадах</a>
+<a class="topline__popup__region__link js-region-item" data-cookie="russia/kaliningradskaya_obl" data-id="kaliningrad" data-title="Калининград" data-url="http://kaliningrad.rbc.ru/" href="//kaliningrad.rbc.ru/">
+                                Калининград
+                            </a>
+<a class="" href="http://rkarasev.ru/common/upload/training_by_subject.pdf"><img class="icomenu-external" id="icomenu-external"/> Тренировочные задачи студенческих математических олимпиад</a>
+<a class="topline__popup__region__link js-region-item" data-cookie="russia/krasnodarskiy_kray" data-id="krasnodar" data-title="Краснодарский край" data-url="http://kuban.rbc.ru/" href="//kuban.rbc.ru/">
+                                Краснодар
+                            </a>
+<a class="root-item" href="/education/chair/mathematics/specialization/specialization.php"><img class="icomenu-page" id="icomenu-page"/>Специализация</a>
+<a class="topline__popup__region__link js-region-item" data-cookie="russia/nijegorodskaya_obl" data-id="nn" data-title="Нижний Новгород" data-url="http://nn.rbc.ru/" href="//nn.rbc.ru/">
+                                Н.Новгород
+                            </a>
+<a href="#SITE_DIR#news/"><h2>Новости</h2></a>
+<a class="topline__popup__region__link js-region-item" data-cookie="russia/permskij_kraj" data-id="perm" data-title="Пермский край" data-url="http://perm.rbc.ru/" href="//perm.rbc.ru/">
+                                Пермь
+                            </a>
+<a href="#SITE_DIR#news/rss.php" id="news-rss"></a>
+<a class="topline__popup__region__link js-region-item" data-cookie="russia/rostovskaya_obl" data-id="rostov" data-title="Ростов-на-Дону" data-url="http://rostov.rbc.ru/" href="//rostov.rbc.ru/">
+                                Ростов-на-Дону
+                            </a>
+<a href="/education/chair/mathematics/news/nauchnyy_seminar_kafedry_4_dekabrya_2020_g">
+</a>
+<a class="topline__popup__region__link js-region-item" data-cookie="russia/tatarstan" data-id="tatarstan" data-title="Татарстан" data-url="http://rt.rbc.ru/" href="//rt.rbc.ru/">
+                                Татарстан
+                            </a>
+<a class="news-title" href="/education/chair/mathematics/news/nauchnyy_seminar_kafedry_4_dekabrya_2020_g">Научный семинар кафедры 4 декабря 2020 г.</a>
+<a class="topline__popup__region__link js-region-item" data-cookie="russia/tyumenskaya_obl" data-id="tyumen" data-title="Тюмень" data-url="http://t.rbc.ru/" href="//t.rbc.ru/">
+                                Тюмень
+                            </a>
+<a href="/education/chair/mathematics/news/distantsionnye_zanyatiya_v_osennem_semestre_2020_g">
+</a>
+<a class="topline__popup__region__link js-region-item" data-cookie="russia_chernozemje" data-id="chr" data-title="Черноземье" data-url="http://chr.rbc.ru/" href="//chr.rbc.ru/">
+                                Черноземье
+                            </a>
+<a class="news-title" href="/education/chair/mathematics/news/distantsionnye_zanyatiya_v_osennem_semestre_2020_g">Дистанционные занятия в осеннем семестре 2020 г.</a>
+<a class="topline__popup__region__link js-region-item" data-cookie="russia/kavkaz" data-id="kavkaz" data-title="Кавказ" data-url="http://kavkaz.rbc.ru/" href="//kavkaz.rbc.ru/">
+                                Кавказ
+                            </a>
+<a href="/education/chair/mathematics/news/nauchnyy_seminar_kafedry_20_noyabrya_2020_g">
+</a>
+<a class="tsum-countdown__inner js-yandex-counter" data-yandex-name="countdown_widget_click" href="https://www.tsum.ru/lp/new-year-gifts-guide/?utm_campaign=cn.new-year-countdown-presents_ss.fw2021_dpt.mb_dev.pc_gr.all_ts.tsum_tg.all&amp;utm_source=rbc.ru&amp;utm_medium=banner&amp;utm_content=sz.widget" target="_blank">
+<div class="tsum-countdown__countdown">
+<div class="tsum-countdown__days">
+<span class="tsum-countdown__days__number js-tsum-countdown-days">00</span>
+<span class="tsum-countdown__days__text js-tsum-countdown-days-name">дней</span>
+</div>
+<div class="tsum-countdown__time">
+<span class="tsum-countdown__hours js-tsum-countdown-hours">00</span>
+<span class="tsum-countdown__separator">:</span>
+<span class="tsum-countdown__minutes js-tsum-countdown-minutes">00</span>
+<span class="tsum-countdown__separator">:</span>
+<span class="tsum-countdown__seconds js-tsum-countdown-seconds">00</span>
+</div>
+</div>
+<div class="tsum-countdown__logo">
+<div class="tsum-countdown__image"></div>
+<div class="tsum-countdown__text">Считаем минуты до Нового года</div>
+</div>
+</a>
+<a class="news-title" href="/education/chair/mathematics/news/nauchnyy_seminar_kafedry_20_noyabrya_2020_g">Научный семинар кафедры 20 ноября 2020 г.</a>
+<a class="news-feed__item" href="https://quote.rbc.ru/exchanges/info/cb.0/72413/eod" id="id_newsfeed_currencycbusd">
+<span class="news-feed__item__title news-feed__item_bold">
+        Курс доллара на 3 декабря<br/>
+        USD ЦБ: 75,62
+        <span class="news-feed__item__change item__change_fall">
+                        (-0,71)
+        </span>
+</span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text">Инвестиции, 12:40</span>
+</span>
+</a>
+<a href="/education/chair/mathematics/news/63_ya_nauchnaya_konferentsiya_mfti">
+</a>
+<a class="news-feed__item" href="https://quote.rbc.ru/exchanges/info/cb.0/72383/eod" id="id_newsfeed_currencycbeur">
+<span class="news-feed__item__title news-feed__item_bold">
+        Курс евро на 3 декабря<br/>
+        EUR ЦБ: 91,31
+        <span class="news-feed__item__change item__change_zero">
+                        (0)
+        </span>
+</span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text">Инвестиции, 12:40</span>
+</span>
+</a>
+<a class="news-title" href="/education/chair/mathematics/news/63_ya_nauchnaya_konferentsiya_mfti">63-я научная конференция МФТИ</a>
+<a class="news-feed__item js-news-feed-item js-yandex-counter" data-modif="1606904344" data-yandex-name="from_news_feed" href="http://traffic.rbc.ru/x6ncb?from=newsfeed" id="id_newsfeed_5f636f809a79470ac80d3957">
+<span class="news-feed__item__title">
+            Финансовый ультрахайтек: как управляют большим инвестиционным портфелем
+        </span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text"><!--
+-->РБК и Refinitiv, 13:19<!--
+--></span><!--
+--><!--
+--><!--
+--></span> </a>
+<a href="/education/chair/mathematics/news/informatsiya_dlya_studentov_3_kursa_i_prepodavateley">
+</a>
+<a class="news-feed__item js-news-feed-item js-yandex-counter" data-modif="1606904227" data-yandex-name="from_news_feed" href="https://www.rbc.ru/politics/02/12/2020/5fc7681b9a79477fbba754a2?from=newsfeed" id="id_newsfeed_5fc7681b9a79477fbba754a2">
+<span class="news-feed__item__title news-feed__item_in-main">
+            Путин заявил о надежде на «политическую зрелость» белорусов
+        </span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text"><!--
+-->Политика, 13:17<!--
+--></span><!--
+--><!--
+--><!--
+--></span> </a>
+<a class="news-title" href="/education/chair/mathematics/news/informatsiya_dlya_studentov_3_kursa_i_prepodavateley">Информация для студентов 3 курса и преподавателей</a>
+<a class="news-feed__item js-news-feed-item js-yandex-counter" data-modif="1606904163" data-yandex-name="from_news_feed" href="https://realty.rbc.ru/news/5fc761409a79477b7771b68c?from=newsfeed" id="id_newsfeed_5fc761409a79477b7771b68c">
+<span class="news-feed__item__title">
+            В правительстве признали нехватку средств на решение проблемы дольщиков
+        </span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text"><!--
+-->Недвижимость, 13:16<!--
+--></span><!--
+--><!--
+--><!--
+--></span> </a>
+<a href="/education/chair/mathematics/news/semestrovaya_rabota_v_distantsionnom_formate">
+</a>
+<a class="banner__container__link" href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank">
+<span class="banner__container__border">
+<span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
+</span>
+</a>
+<a class="news-title" href="/education/chair/mathematics/news/semestrovaya_rabota_v_distantsionnom_formate">Семестровая контрольная работа в дистанционном формате</a>
+<a class="news-feed__item js-news-feed-item js-yandex-counter" data-modif="1606903846" data-yandex-name="from_news_feed" href="https://www.rbc.ru/rbcfreenews/5fc74cef9a79477192adc453?from=newsfeed" id="id_newsfeed_5fc74cef9a79477192adc453">
+<span class="news-feed__item__title">
+            Совфед одобрил законы о верховенстве Конституции над международным правом
+        </span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text"><!--
+-->Политика, 13:10<!--
+--></span><!--
+--><!--
+--><!--
+--></span> </a>
+<a href="/education/chair/mathematics/news/nauchnyy_seminar_kafedry_30_oktyabrya_2020_g">
+</a>
+<a class="news-feed__item js-news-feed-item js-yandex-counter" data-modif="1606903538" data-yandex-name="from_news_feed" href="https://sportrbc.ru/news/5fc75fa59a794779b1b0409e?from=newsfeed" id="id_newsfeed_5fc75fa59a794779b1b0409e">
+<span class="news-feed__item__title">
+            Уволенный из РЖД глава «Локомотива» пока сохранит свой пост в клубе
+        </span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text"><!--
+-->Спорт, 13:05<!--
+--></span><!--
+--><!--
+--><!--
+--></span> </a>
+<a class="news-title" href="/education/chair/mathematics/news/nauchnyy_seminar_kafedry_30_oktyabrya_2020_g">Научный семинар кафедры 30 октября 2020 г.</a>
+<a class="news-feed__item js-news-feed-item js-yandex-counter" data-modif="1606903412" data-yandex-name="from_news_feed" href="https://sportrbc.ru/news/5fc757089a794776692aaab0?from=newsfeed" id="id_newsfeed_5fc757089a794776692aaab0">
+<span class="news-feed__item__title">
+            Уволят или нет. Что известно об уходе Газизова из «Спартака»
+        </span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text"><!--
+-->Спорт, 13:03<!--
+--></span><!--
+--><!--
+--><!--
+--></span> </a>
+<a href="/education/chair/mathematics/news/nauchnyy_seminar_kafedry_16_oktyabrya_2020_g">
+</a>
+<a class="news-feed__item js-news-feed-item js-yandex-counter" data-modif="1606902960" data-yandex-name="from_news_feed" href="http://plus.rbc.ru/pressrelease/5fc7594a7a8aa9a7d5fa440a?from=newsfeed" id="id_newsfeed_5fc7594a7a8aa9a7d5fa440a">
+<span class="news-feed__item__title">
+            ПСБ запустил вклад «Зимнее чудо» с доходностью до 5,5% годовых 
+        </span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text"><!--
+-->Пресс-релиз, 12:56<!--
+--></span><!--
+--><!--
+--><!--
+--></span> </a>
+<a class="news-title" href="/education/chair/mathematics/news/nauchnyy_seminar_kafedry_16_oktyabrya_2020_g">Научный семинар кафедры 16 октября 2020 г.</a>
+<a class="news-feed__item js-news-feed-item js-yandex-counter" data-modif="1606902763" data-yandex-name="from_news_feed" href="https://www.rbc.ru/rbcfreenews/5fc719e29a79475e9e389c29?from=newsfeed" id="id_newsfeed_5fc719e29a79475e9e389c29">
+<span class="news-feed__item__title news-feed__item_in-main">
+            Как поменялось количество наличных в обращении в России. Инфографика
+        </span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text"><!--
+-->Финансы, 12:52<!--
+--></span><!--
+--><!--
+--><!--
+--></span> </a>
+<a href="/education/chair/mathematics/news/nauchnyy_seminar_kafedry_9_oktyabrya_2020_g">
+</a>
+<a class="news-feed__item js-news-feed-item js-yandex-counter" data-modif="1606902705" data-yandex-name="from_news_feed" href="https://pro.rbc.ru/news/5fb7b0a79a7947b4e43f9ff4?from=newsfeed&amp;utm_source=rbc.ru&amp;utm_medium=inhouse_media&amp;utm_campaign=newsfeed&amp;utm_content=5fb7b0a79a7947b4e43f9ff4" id="id_newsfeed_5fb7b0a79a7947b4e43f9ff4">
+<span class="news-feed__item__title">
+            Как FMCG-компании развивать торговлю онлайн в категории non-food
+        </span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text"><!--
+-->Pro, 12:51<!--
+--></span><!--
+--><!--
+--><!--
+--></span> </a>
+<a class="news-title" href="/education/chair/mathematics/news/nauchnyy_seminar_kafedry_9_oktyabrya_2020_g">Научный семинар кафедры 9 октября 2020 г.</a>
+<a class="news-feed__item js-news-feed-item js-yandex-counter" data-modif="1606902650" data-yandex-name="from_news_feed" href="https://www.rbc.ru/rbcfreenews/5fc760029a794779991cf9a4?from=newsfeed" id="id_newsfeed_5fc760029a794779991cf9a4">
+<span class="news-feed__item__title">
+            Кремль назвал внутренним делом вопрос о статусе русского языка в Карабахе
+        </span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text"><!--
+-->Политика, 12:50<!--
+--></span><!--
+--><!--
+--><!--
+--></span> </a>
+<a href="/education/chair/mathematics/news/nauchnyy_seminar_kafedry_2_oktyabrya_2020_g">
+</a>
+<a class="news-feed__item js-news-feed-item js-yandex-counter" data-modif="1606902644" data-yandex-name="from_news_feed" href="http://traffic.rbc.ru/zsu6s?from=newsfeed" id="id_newsfeed_5fbf59e49a79478c7f40a34e">
+<span class="news-feed__item__title">
+            Бердвотчинг и дикие животные Москвы: где увидеть птиц и зверей
+        </span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text"><!--
+-->РБК и ДПиООС, 12:50<!--
+--></span><!--
+--><!--
+--><!--
+--></span> </a>
+<a class="news-title" href="/education/chair/mathematics/news/nauchnyy_seminar_kafedry_2_oktyabrya_2020_g">Научный семинар кафедры 2 октября 2020 г.</a>
+<a class="news-feed__item js-news-feed-item js-yandex-counter" data-modif="1606902535" data-yandex-name="from_news_feed" href="https://www.rbc.ru/society/02/12/2020/5fc760df9a79477aa648ac9c?from=newsfeed" id="id_newsfeed_5fc760df9a79477aa648ac9c">
+<span class="news-feed__item__title news-feed__item_in-main">
+            Сыгравший Борменталя в «Собачьем сердце» Борис Плотников умер от COVID-19
+        </span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text"><!--
+-->Общество, 12:48<!--
+--></span><!--
+--><!--
+--><!--
+--></span> </a>
+<a href="#SITE_DIR#news/">Все новости &gt;</a>
+<a class="news-feed__item js-news-feed-item js-yandex-counter" data-modif="1606902392" data-yandex-name="from_news_feed" href="https://www.rbc.ru/politics/02/12/2020/5fc753659a794774a7ce0712?from=newsfeed" id="id_newsfeed_5fc753659a794774a7ce0712">
+<span class="news-feed__item__title">
+            Глава Росстандарта подал заявление об отставке
+        </span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text"><!--
+-->Политика, 12:46<!--
+--></span><!--
+--><!--
+--><!--
+--></span> </a>
+<a href="/about/general/contacts/">Контактная информация</a>
+<a class="news-feed__item js-news-feed-item js-yandex-counter" data-modif="1606901751" data-yandex-name="from_news_feed" href="https://www.rbc.ru/society/02/12/2020/5fc75d759a794778f470c205?from=newsfeed" id="id_newsfeed_5fc75d759a794778f470c205">
+<span class="news-feed__item__title news-feed__item_in-main">
+            Кремль назвал «абсолютный приоритет» при вакцинации от коронавируса
+        </span>
+<span class="news-feed__item__date">
+<span class="news-feed__item__date-text"><!--
+-->Общество, 12:35<!--
+--></span><!--
+--><!--
+--><!--
+--></span> </a>
+<a href="tel:+74954084554" target="_blank">+7 (495) 408-45-54</a>
+<a class="banner__container__link" href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank">
+<span class="banner__container__border">
+<span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
+</span>
+</a>
+<a href="mailto:info@mipt.ru" target="_blank">info@mipt.ru</a>
+<a class="banner__container__link" href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank">
+<span class="banner__container__border">
+<span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
+</span>
+</a>
+<a href="/about/general/contacts/way.php" title="Как проехать?">Как проехать?</a>
+<a class="menu__link js-yandex-counter" data-yandex-name="click_tab_main" href="/">Главное</a>
+<a href="https://mipt.ru/obrashheniya-grazhdan/index.php" title="Форма для обращения граждан">Форма для обращения граждан</a>
+<a class="menu__link js-yandex-counter" data-yandex-name="click_tab_newsfeed" href="/short_news">Лента</a>
+<a href="/about/departments/press_service/">Пресс-служба</a>
+<a class="menu__link js-live-tv-play-mobile js-yandex-counter" data-yandex-name="click_tab_live" href="#">Эфир</a>
+<a href="tel:+74987139110" target="_blank">+7 (498) 713-91-10</a>
+<a class="tabs__link" href="https://www.rbc.ru/story/5e2881539a794724ab627caa">Пандемия коронавируса</a>
+<a href="#">Для журналистов</a>
+<a class="tabs__link" href="https://www.rbc.ru/story/5fb535139a7947274ff9800c">Дело Михаила Меня</a>
+<a href="tel:+79258840063" target="_blank">+7 (925) 884-00-63</a>
+<a class="tabs__link" href="https://www.rbc.ru/story/5eeb458f9a79472a78dda964">Протесты в Белоруссии</a>
+<a href="mailto:press@mipt.ru">press@mipt.ru</a>
+<a class="tabs__link" href="https://www.rbc.ru/story/5f161c1b9a794775d64857a6">Выборы президента США</a>
+<a href="/abiturs/admission_board/">Приемная комиссия</a>
+<a class="tabs__link" href="https://www.rbc.ru/story/5f7082cf9a79475cbe6fc260">Конфликт Армении и Азербайджана</a>
+<a href="tel:+74954084800" target="_blank">+7 (495) 408-48-00</a>
+<a class="tabs__link" href="https://www.rbc.ru/story/5f0447bb9a79476dbbc7990b">Дело Ивана Сафронова</a>
+<a href="mailto:pk@mipt.ru">pk@mipt.ru</a>
+<a class="main__big__link js-yandex-counter" data-rm-position="1" data-vr-contentbox="Position 1" data-vr-contentbox-url="https://www.rbc.ru/society/02/12/2020/5fc75d759a794778f470c205" data-yandex-name="from_main" data-yandex-params='{url: "https://www.rbc.ru/society/02/12/2020/5fc75d759a794778f470c205"}' href="https://www.rbc.ru/society/02/12/2020/5fc75d759a794778f470c205?from=from_main_1">
+<span class="main__big__text-wrap">
+<span class="main__big__text">
+<span class="main__big__title" data-vr-headline="">Кремль назвал «абсолютный приоритет» при вакцинации от коронавируса</span>
+</span>
+</span>
+</a>
+<a href="http://www.school.mipt.ru/">ЗФТШ</a>
+<a class="main__feed__link js-yandex-counter" data-rm-position="2" data-vr-contentbox="Position 2" data-vr-contentbox-url="https://www.rbc.ru/society/02/12/2020/5e2fe9459a79479d102bada6" data-yandex-name="from_main" data-yandex-params='{url: "https://www.rbc.ru/society/02/12/2020/5e2fe9459a79479d102bada6"}' href="https://www.rbc.ru/society/02/12/2020/5e2fe9459a79479d102bada6?from=from_main_2">
+<span class="main__feed__title-wrap">
+<span class="main__feed__title" data-vr-headline=""><!--
+-->Пандемия коронавируса. Самое актуальное на 2 декабря<!--
+--></span><!--
+--><!--
+--><!--
+--></span><!--
+--></a>
+<a href="tel:+74954085145" target="_blank">+7 (495) 408-51-45</a>
+<a class="banner__container__link" href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank">
+<span class="banner__container__border">
+<span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
+</span>
+</a>
+<a href="tel:+74997555580" target="_blank">+7 (499) 755-55-80</a>
+<a class="main__feed__link js-yandex-counter" data-rm-position="3" data-vr-contentbox="Position 3" data-vr-contentbox-url="https://www.rbc.ru/politics/02/12/2020/5fc7681b9a79477fbba754a2" data-yandex-name="from_main" data-yandex-params='{url: "https://www.rbc.ru/politics/02/12/2020/5fc7681b9a79477fbba754a2"}' href="https://www.rbc.ru/politics/02/12/2020/5fc7681b9a79477fbba754a2?from=from_main_3">
+<span class="main__feed__title-wrap">
+<span class="main__feed__title" data-vr-headline=""><!--
+-->Путин заявил о надежде на «политическую зрелость» белорусов<!--
+--></span><!--
+--><!--
+--><!--
+--></span><!--
+--></a>
+<a href="https://mipt.ru/about/departments/human_resources/contacts.php">Управление по работе <br/>с персоналом</a>
+<a class="main__feed__link js-yandex-counter" data-rm-position="4" data-vr-contentbox="Position 4" data-vr-contentbox-url="https://www.rbc.ru/society/02/12/2020/5fc760df9a79477aa648ac9c" data-yandex-name="from_main" data-yandex-params='{url: "https://www.rbc.ru/society/02/12/2020/5fc760df9a79477aa648ac9c"}' href="https://www.rbc.ru/society/02/12/2020/5fc760df9a79477aa648ac9c?from=from_main_4">
+<span class="main__feed__title-wrap">
+<span class="main__feed__title" data-vr-headline=""><!--
+-->Сыгравший Борменталя в «Собачьем сердце» Борис Плотников умер от COVID-19<!--
+--></span><!--
+--><!--
+--><!--
+--></span><!--
+--></a>
+<a href="tel:+74987446551" target="_blank">+7 (498) 744-65-51</a>
+<a class="tsum-countdown__inner js-yandex-counter" data-yandex-name="countdown_widget_click" href="https://www.tsum.ru/lp/new-year-gifts-guide/?utm_campaign=cn.new-year-countdown-presents_ss.fw2021_dpt.mb_dev.mob_gr.all_ts.tsum_tg.all&amp;utm_source=rbc.ru&amp;utm_medium=banner&amp;utm_content=sz.widget" target="_blank">
+<div class="tsum-countdown__countdown">
+<div class="tsum-countdown__days">
+<span class="tsum-countdown__days__number js-tsum-countdown-days">00</span>
+<span class="tsum-countdown__days__text js-tsum-countdown-days-name">дней</span>
+</div>
+<div class="tsum-countdown__time">
+<span class="tsum-countdown__hours js-tsum-countdown-hours">00</span>
+<span class="tsum-countdown__separator">:</span>
+<span class="tsum-countdown__minutes js-tsum-countdown-minutes">00</span>
+<span class="tsum-countdown__separator">:</span>
+<span class="tsum-countdown__seconds js-tsum-countdown-seconds">00</span>
+</div>
+</div>
+<div class="tsum-countdown__logo">
+<div class="tsum-countdown__image"></div>
+<div class="tsum-countdown__text">Считаем минуты до Нового года</div>
+</div>
+</a>
+<a href="mailto:hr@mipt.ru">hr@mipt.ru</a>
+<a class="main__feed__link js-yandex-counter" data-rm-position="5" data-vr-contentbox="Position 5" data-vr-contentbox-url="https://www.rbc.ru/politics/02/12/2020/5fc75b109a794778667e6997" data-yandex-name="from_main" data-yandex-params='{url: "https://www.rbc.ru/politics/02/12/2020/5fc75b109a794778667e6997"}' href="https://www.rbc.ru/politics/02/12/2020/5fc75b109a794778667e6997?from=from_main_5">
+<span class="main__feed__title-wrap">
+<span class="main__feed__title" data-vr-headline=""><!--
+-->Азербайджан учредил праздник в день заключения соглашения по Карабаху<!--
+--></span><!--
+--><!--
+--><!--
+--></span><!--
+--></a>
+<a href="https://mipt.ru/about/departments/human_resources/vacancies/" target="_blank">Вакансии в МФТИ</a>
+<a class="main__feed__link js-yandex-counter" data-rm-position="6" data-vr-contentbox="Position 6" data-vr-contentbox-url="https://www.rbc.ru/society/02/12/2020/5fc753c79a7947750c025b82" data-yandex-name="from_main" data-yandex-params='{url: "https://www.rbc.ru/society/02/12/2020/5fc753c79a7947750c025b82"}' href="https://www.rbc.ru/society/02/12/2020/5fc753c79a7947750c025b82?from=from_main_6">
+<span class="main__feed__title-wrap">
+<span class="main__feed__title" data-vr-headline=""><!--
+-->Верховный суд разрешил продавцам не обслуживать покупателей без масок<!--
+--></span><!--
+--><!--
+--><!--
+--></span><!--
+--></a>
+<a href="https://hr.mipt.ru/" target="_blank">Конкурс ППС</a>
+<a class="main__feed__link js-yandex-counter" data-rm-position="7" data-vr-contentbox="Position 7" data-vr-contentbox-url="https://quote.rbc.ru/news/article/5fc74e469a7947721bdfdae9" data-yandex-name="from_main" data-yandex-params='{url: "https://quote.rbc.ru/news/article/5fc74e469a7947721bdfdae9"}' href="https://quote.rbc.ru/news/article/5fc74e469a7947721bdfdae9?from=from_main_7">
+<span class="main__feed__title-wrap">
+<span class="main__feed__title" data-vr-headline=""><!--
+-->Маск предупредил сотрудников Tesla о рисках обвала акций компании<!--
+--></span><!--
+--><!--
+--><!--
+--></span><!--
+--></a>
+<a href="/about/departments/uchebniy/">Учебное управление</a>
+<a class="main__feed__link js-yandex-counter" data-rm-position="8" data-vr-contentbox="Position 8" data-vr-contentbox-url="https://www.rbc.ru/business/02/12/2020/5fc743c09a79476d7534f777" data-yandex-name="from_main" data-yandex-params='{url: "https://www.rbc.ru/business/02/12/2020/5fc743c09a79476d7534f777"}' href="https://www.rbc.ru/business/02/12/2020/5fc743c09a79476d7534f777?from=from_main_8">
+<span class="main__feed__title-wrap">
+<span class="main__feed__title" data-vr-headline=""><!--
+-->Сооснователь Yota консолидировал 100% Эльгинского угольного проекта<!--
+--></span><!--
+--><!--
+--><!--
+--></span><!--
+--></a>
+<a href="tel:+74987446588" target="_blank">+7 (498) 744-65-88</a>
+<a class="banner__container__link" href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank">
+<span class="banner__container__border">
+<span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
+</span>
+</a>
+<a href="mailto:edu.admin@phystech.edu">edu.admin@phystech.edu</a>
+<a class="main__feed__link js-yandex-counter" data-rm-position="9" data-vr-contentbox="Position 9" data-vr-contentbox-url="https://www.rbc.ru/society/02/12/2020/5fc750149a79477315a30a5c" data-yandex-name="from_main" data-yandex-params='{url: "https://www.rbc.ru/society/02/12/2020/5fc750149a79477315a30a5c"}' href="https://www.rbc.ru/society/02/12/2020/5fc750149a79477315a30a5c?from=from_main_9">
+<span class="main__feed__title-wrap">
+<span class="main__feed__title" data-vr-headline=""><!--
+-->Власти первого в России региона объявили 31 декабря 2020 года выходным<!--
+--></span><!--
+--><!--
+--><!--
+--></span><!--
+--></a>
+<a href="/about/anti_corruption/">Противодействие коррупции</a>
+<a class="main__feed__link js-yandex-counter" data-rm-position="10" data-vr-contentbox="Position 10" data-vr-contentbox-url="https://www.rbc.ru/society/02/12/2020/5fc701e99a79475880a260cc" data-yandex-name="from_main" data-yandex-params='{url: "https://www.rbc.ru/society/02/12/2020/5fc701e99a79475880a260cc"}' href="https://www.rbc.ru/society/02/12/2020/5fc701e99a79475880a260cc?from=from_main_10">
+<span class="main__feed__title-wrap">
+<span class="main__feed__title" data-vr-headline=""><!--
+-->Ozon назвал самые покупаемые книги десятилетия в России<!--
+--></span><!--
+--><!--
+--><!--
+--></span><!--
+--></a>
+<a href="/about/anti_corruption/leader_income.php">Сведения о доходах</a>
+<a class="main__feed__link js-yandex-counter" data-rm-position="11" data-vr-contentbox="Position 11" data-vr-contentbox-url="https://www.rbc.ru/technology_and_media/02/12/2020/5fc758b29a794776b4e1b84c" data-yandex-name="from_main" data-yandex-params='{url: "https://www.rbc.ru/technology_and_media/02/12/2020/5fc758b29a794776b4e1b84c"}' href="https://www.rbc.ru/technology_and_media/02/12/2020/5fc758b29a794776b4e1b84c?from=from_main_11">
+<span class="main__feed__title-wrap">
+<span class="main__feed__title" data-vr-headline=""><!--
+-->Маск назвал сроки высадки человека на Марсе<!--
+--></span><!--
+--><!--
+--><!--
+--></span><!--
+--></a>
+<a href="https://mipt.ru/docs/download.php?code=prikaz_219_1_ot_06_02_2020_politika_obrabotki_pers_dannykh" target="_blank">Политика обработки персональных данных МФТИ</a>
+<a class="main__feed__link js-yandex-counter" data-rm-position="12" data-vr-contentbox="Position 12" data-vr-contentbox-url="https://www.rbc.ru/society/02/12/2020/5fc739d59a7947699bd02319" data-yandex-name="from_main" data-yandex-params='{url: "https://www.rbc.ru/society/02/12/2020/5fc739d59a7947699bd02319"}' href="https://www.rbc.ru/society/02/12/2020/5fc739d59a7947699bd02319?from=from_main_12">
+<span class="main__feed__title-wrap">
+<span class="main__feed__title" data-vr-headline=""><!--
+-->Нарышкин назвал Менделеева одним из известных агентов российской разведки<!--
+--></span><!--
+--><!--
+--><!--
+--></span><!--
+--></a>
+<a href="/feedback">Техподдержка сайта</a>
+<a class="main__feed__link js-yandex-counter" data-rm-position="13" data-vr-contentbox="Position 13" data-vr-contentbox-url="https://sportrbc.ru/news/5fc753619a7947754aae9dc7" data-yandex-name="from_main" data-yandex-params='{url: "https://sportrbc.ru/news/5fc753619a7947754aae9dc7"}' href="https://sportrbc.ru/news/5fc753619a7947754aae9dc7?from=from_main_13">
+<span class="main__feed__title-wrap">
+<span class="main__feed__title" data-vr-headline=""><!--
+-->Сын Михаэля Шумахера стал партнером Мазепина в команде «Формулы-1»<!--
+--></span><!--
+--><!--
+--><!--
+--></span><!--
+--></a>
+<a href="/api/">API</a>
+<a class="main__feed__link js-yandex-counter" data-rm-position="14" data-vr-contentbox="Position 14" data-vr-contentbox-url="https://www.rbc.ru/rbcfreenews/5fc719e29a79475e9e389c29" data-yandex-name="from_main" data-yandex-params='{url: "https://www.rbc.ru/rbcfreenews/5fc719e29a79475e9e389c29"}' href="https://www.rbc.ru/rbcfreenews/5fc719e29a79475e9e389c29?from=from_main_14">
+<span class="main__feed__title-wrap">
+<span class="main__feed__title" data-vr-headline=""><!--
+-->Как поменялось количество наличных в обращении в России. Инфографика<!--
+--></span><!--
+--><!--
+--><!--
+--></span><!--
+--></a>
+<a href="https://mipt.ru">https://mipt.ru</a>
+<a class="main__feed__link js-yandex-counter" data-rm-position="15" data-vr-contentbox="Position 15" data-vr-contentbox-url="https://pro.rbc.ru/news/5fbdfdf79a794779def00ab5" data-yandex-name="from_main" data-yandex-params='{url: "https://pro.rbc.ru/news/5fbdfdf79a794779def00ab5"}' href="https://pro.rbc.ru/news/5fbdfdf79a794779def00ab5?from=from_main_15&amp;utm_source=rbc.ru&amp;utm_medium=inhouse_media&amp;utm_campaign=lines&amp;utm_content=5fbdfdf79a794779def00ab5">
+<span class="main__feed__title-wrap">
+<span class="main__feed__title" data-vr-headline=""><!--
+-->РБК Pro: как пандемия повлияла на загрузку сотрудниц<!--
+--></span><!--
+--><!--
+--><!--
+--></span><!--
+--></a>
+<a href="https://vk.com/miptru" target="_blank"><img alt="soc-vk" src="/bitrix/templates/.default/images/logo_vk.png"/></a>
+<a class="banner__container__link" href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank">
+<span class="banner__container__border">
+<span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
+</span>
+</a>
+<a href="https://www.instagram.com/mipt.ru/" target="_blank"><img alt="soc-ig" src="/bitrix/templates/.default/images/logo_ig.png"/></a>
+<a class="banner__container__link" href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank">
+<span class="banner__container__border">
+<span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
+</span>
+</a>
+<a href="https://www.facebook.com/mipt.rus" target="_blank"><img alt="soc-fb" src="/bitrix/templates/.default/images/b_5wgnid.png"/></a>
+<a class="banner__container__link" href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank">
+<span class="banner__container__border">
+<span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
+</span>
+</a>
+<a href="https://twitter.com/miptru" target="_blank"><img alt="soc-tw" src="/bitrix/templates/.default/images/b_5wgniz.png"/></a>
+<a class="banner__container__link" href="http://www.adv.rbc.ru" rel="noreferrer" target="_blank">
+<span class="banner__container__border">
+<span class="banner__container__info"><span class="banner__container__color">www.adv.rbc.ru</span></span>
+</span>
+</a>
+<a href="https://www.flickr.com/photos/miptpix/" target="_blank"><img alt="soc-li" src="/css/images/flickr.png"/></a>
+<a class="footer__link" href="http://www.rbcholding.ru/about.shtml">О компании</a>
+<a href="https://www.youtube.com/channel/UCGJzpMyR6xRGN05hR_VpKGg" target="_blank"><img alt="soc-yt" src="/css/images/icon_soc_yt.png"/></a>
+<a class="footer__link" href="https://www.rbc.ru/contacts/">Контактная информация</a>
+<a href="https://metrika.yandex.ru/stat/?id=28096458&amp;from=informer" rel="nofollow" style="margin-top: 10px;" target="_blank">
+<img alt="Яндекс.Метрика" class="ym-advanced-informer" data-cid="28096458" data-lang="ru" src="https://informer.yandex.ru/informer/28096458/3_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:88px; height:31px; border:0;" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)">
+</img></a>
+<a class="footer__link" href="https://www.rbc.ru/editors/">Редакция</a>
+<a href="https://cnt.sputnik.ru/public/mipt.ru" style="margin-top: 10px; margin-left: 70px;" target="_blank">
+<img alt="Счетчик Спутника" src="https://cnt.sputnik.ru/informer?domain=mipt.ru&amp;tz=180" style="width:88px; height:31px; border:0;" title="Просмотры, визиты, посетители за текущие сутки"/>
+</a>
+<a class="footer__link" href="https://adv.rbc.ru/">Размещение рекламы</a>
+<a class="footer__link" href="http://intern.rbc.ru/">Стажерская программа</a>
+<a class="footer__link" href="https://www.facebook.com/rbc.ru/" target="_blank">Facebook</a>
+<a class="footer__link" href="https://vk.com/rbc" target="_blank">ВКонтакте</a>
+<a class="footer__link" href="https://twitter.com/ru_rbc" target="_blank">Twitter</a>
+<a class="footer__link" href="https://ok.ru/group/51670727852273" target="_blank">Одноклассники</a>
+<a class="footer__link" href="https://www.youtube.com/user/tvrbcnews" target="_blank">YouTube</a>
+<a class="footer__link" href="https://t.me/rbc_news" target="_blank">Telegram</a>
+<a class="footer__link" href="https://www.instagram.com/rbc_ru/" target="_blank">Instagram</a>
+<a class="footer__link" href="https://zen.yandex.ru/rbc.ru" target="_blank">Дзен</a>
+<a class="footer__link" href="https://www.rbc.ru/spb_sz/">Санкт-Петербург и область</a>
+<a class="footer__link" href="https://ekb.rbc.ru/ekb/">Екатеринбург</a>
+<a class="footer__link" href="https://nsk.rbc.ru/nsk/">Новосибирск</a>
+<a class="footer__link" href="https://ufa.rbc.ru/ufa/">Башкортостан</a>
+<a class="footer__link" href="https://vo.rbc.ru/vo/">Вологодская область</a>
+<a class="footer__link" href="https://kaliningrad.rbc.ru/kaliningrad/">Калининград</a>
+<a class="footer__link" href="https://kuban.rbc.ru/krasnodar/">Краснодарский край</a>
+<a class="footer__link" href="https://nn.rbc.ru/nn/">Нижний Новгород</a>
+<a class="footer__link" href="https://perm.rbc.ru/perm/">Пермский край</a>
+<a class="footer__link" href="https://rostov.rbc.ru/rostov/">Ростов-на-Дону</a>
+<a class="footer__link" href="https://rt.rbc.ru/tatarstan/">Татарстан</a>
+<a class="footer__link" href="https://t.rbc.ru/tyumen/">Тюмень</a>
+<a class="footer__link" href="https://chr.rbc.ru/chr/">Черноземье</a>
+<a class="footer__link" href="https://kavkaz.rbc.ru/kavkaz/">Кавказ</a>
+<a class="footer__link" href="https://auth.rbc.ru/login?from=disable_advertising_footer">Скрыть баннеры</a>
+<a class="footer__link" href="https://www.rbc.ru/subscribe/">Рассылка РБК Pro</a>
+<a class="footer__link" href="http://static.feed.rbc.ru/rbc/logical/footer/news.rss">RSS Новости</a>
+<a class="footer__link js-push-notification" href="https://app.rbc.ru/gpn/unsubscribe.html">Оповещения RBC.ru</a>
+<a class="footer__link" href="https://apps.apple.com/ru/app/%D1%80%D0%B1%D0%BA-%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B5/id483524731" target="_blank">iOS</a>
+<a class="footer__link" href="https://play.google.com/store/apps/details?id=ru.rbc.news.starter" target="_blank">Android</a>
+<a class="footer__link" href="https://apps.apple.com/ru/app/%D1%80%D0%B1%D0%BA-%D0%BB%D0%B5%D0%BD%D1%82%D0%B0-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9/id1172278022" target="_blank">iOS</a>
+<a class="footer__link" href="https://play.google.com/store/apps/details?id=ru.rbc.newsline" target="_blank">Android</a>
+<a class="footer__link" href="https://www.nic.ru/" target="_blank">Домены и хостинг</a>
+<a class="footer__link" href="https://www.public.ru/" target="_blank">Медиапоиск и анализ</a>
+<a class="footer__link" href="https://loveplanet.ru/" target="_blank">Знакомства</a>
+<a class="footer__link" href="https://www.rbc.ru/companies/" target="_blank">РБК Компании</a>
+<a class="footer__link" href="https://www.rbc.ru/restrictions">Информация об ограничениях</a>
+<a class="footer__link" href="https://www.rbc.ru/info/">Правовая информация</a>
+<a class="footer__link" href="http://www.rbc.ru/privacy/">О соблюдении авторских прав</a>
+<a class="footer__link" href="https://www.rbc.ru/restrictions">Информация об ограничениях</a>
+<a class="footer__link" href="https://www.rbc.ru/info/">Правовая информация</a>
+<a class="footer__link" href="https://www.rbc.ru/privacy/">О соблюдении авторских прав</a>
+<a class="footer__link" href="mailto:letters@rbc.ru">letters@rbc.ru</a>
+<a class="footer__link" href="https://www.rbc.ru/restrictions#reuters" target="_blank">Reuters</a>
+<a class="topline__logo-block" href="/">
+<span class="topline__logo"></span>
+</a>
+<a href="https://www.tsescorts.com/thailand/shemale-escorts" style="display:block; font-size:0;height:0;
+">tsescorts.com</a>
+<a href="http://miptstream.ru/" rel="home" title="Поток"><img alt="" src="http://miptstream.ru/wp-content/uploads/2018/02/logo.png"/></a>
+<a href="javascript: void(0)" id="toggle-btn"><i class="icon-reorder"></i></a>
+<a href="http://miptstream.ru/category/news/">Новости</a>
+<a href="http://miptstream.ru/category/articles/">Статьи</a>
+<a href="http://miptstream.ru/study/">Учебные материалы</a>
+<a href="http://miptstream.ru/courses/">Каталог курсов по выбору</a>
+<a href="http://miptstream.ru/data/">База знаний</a>
+<a href="http://miptstream.ru/vacancy/">Атлас вакансий</a>
+<a href="http://miptstream.ru/about/">О проекте</a>
+<a class="twitter-timeline" data-widget-id="431535389581377536" href="https://twitter.com/miptstream">Твиты пользователя @miptstream</a>
+<a class="loop-entry-img-link" href="http://miptstream.ru/2020/11/24/interactive-physic-experiments/" rel="bookmark" title="Оплачиваемая стажировка в области разработки интерактивных экспериментов по физике">
+<img alt="Оплачиваемая стажировка в области разработки интерактивных экспериментов по физике" src="http://miptstream.ru/wp-content/uploads/2020/11/111111-280x170.jpg"/>
+</a>
+<a href="http://miptstream.ru/2020/11/24/interactive-physic-experiments/" rel="bookmark" title="Оплачиваемая стажировка в области разработки интерактивных экспериментов по физике">Оплачиваемая стажировка в области разработки интерактивных экспериментов по физике</a>
+<a class="loop-entry-img-link" href="http://miptstream.ru/2020/11/24/job-abbyy-2020/" rel="bookmark" title="Вакансии в ABBYY">
+<img alt="Вакансии в ABBYY" src="http://miptstream.ru/wp-content/uploads/2020/11/11543_smm_opengraph-pic-update_ru-280x170.png"/>
+</a>
+<a href="http://miptstream.ru/2020/11/24/job-abbyy-2020/" rel="bookmark" title="Вакансии в ABBYY">Вакансии в ABBYY</a>
+<a class="loop-entry-img-link" href="http://miptstream.ru/2020/11/22/biophysics-phd-edinburgh-university/" rel="bookmark" title="Аспирантура по теоретической биофизике в Университете Эдинбурга">
+<img alt="Аспирантура по теоретической биофизике в Университете Эдинбурга" src="http://miptstream.ru/wp-content/uploads/2020/11/SummerinEdinburgh500x500-280x170.jpg"/>
+</a>
+<a href="http://miptstream.ru/2020/11/22/biophysics-phd-edinburgh-university/" rel="bookmark" title="Аспирантура по теоретической биофизике в Университете Эдинбурга">Аспирантура по теоретической биофизике в Университете Эдинбурга</a>
+<a class="loop-entry-img-link" href="http://miptstream.ru/2020/11/22/phd-epfl-cs-department/" rel="bookmark" title="PhD программа на факультете компьютерных наук института EPFL">
+<img alt="PhD программа на факультете компьютерных наук института EPFL" src="http://miptstream.ru/wp-content/uploads/2020/11/B-tmSapjuXg-280x170.jpg"/>
+</a>
+<a href="http://miptstream.ru/2020/11/22/phd-epfl-cs-department/" rel="bookmark" title="PhD программа на факультете компьютерных наук института EPFL">PhD программа на факультете компьютерных наук института EPFL</a>
+<a class="loop-entry-img-link" href="http://miptstream.ru/2020/11/08/medical-instrumentation-lab-work/" rel="bookmark" title="Работа в лаборатории медицинского приборостроения МФТИ">
+<img alt="Работа в лаборатории медицинского приборостроения МФТИ" src="http://miptstream.ru/wp-content/uploads/2020/11/unnamed-280x170.jpg"/>
+</a>
+<a href="http://miptstream.ru/2020/11/08/medical-instrumentation-lab-work/" rel="bookmark" title="Работа в лаборатории медицинского приборостроения МФТИ">Работа в лаборатории медицинского приборостроения МФТИ</a>
+<a class="loop-entry-img-link" href="http://miptstream.ru/2020/11/08/sportmaster-lab-junior-data-scientist-position/" rel="bookmark" title="«Sportmaster Lab» ищет Junior Data Scientist">
+<img alt="«Sportmaster Lab» ищет Junior Data Scientist" src="http://miptstream.ru/wp-content/uploads/2020/11/sm_lab-50x50-Dilyara-Mukharamova-280x170.jpg"/>
+</a>
+<a href="http://miptstream.ru/2020/11/08/sportmaster-lab-junior-data-scientist-position/" rel="bookmark" title="«Sportmaster Lab» ищет Junior Data Scientist">«Sportmaster Lab» ищет Junior Data Scientist</a>
+<a class="loop-entry-img-link" href="http://miptstream.ru/2020/11/08/digital-ball-event/" rel="bookmark" title="Мероприятие «Цифровой бал»">
+<img alt="Мероприятие «Цифровой бал»" src="http://miptstream.ru/wp-content/uploads/2020/11/8uSPvfssuMA-280x170.jpg"/>
+</a>
+<a href="http://miptstream.ru/2020/11/08/digital-ball-event/" rel="bookmark" title="Мероприятие «Цифровой бал»">Мероприятие «Цифровой бал»</a>
+<a class="loop-entry-img-link" href="http://miptstream.ru/2020/09/08/interview-phystech-start/" rel="bookmark" title="Интервью с партнерами Клуба менторов о нюансах, пользе и вреде работы с наставником">
+<img alt="Интервью с партнерами Клуба менторов о нюансах, пользе и вреде работы с наставником" src="http://miptstream.ru/wp-content/uploads/2020/09/download-225x170.png"/>
+</a>
+<a href="http://miptstream.ru/2020/09/08/interview-phystech-start/" rel="bookmark" title="Интервью с партнерами Клуба менторов о нюансах, пользе и вреде работы с наставником">Интервью с партнерами Клуба менторов о нюансах, пользе и вреде работы с наставником</a>
+<a class="loop-entry-img-link" href="http://miptstream.ru/2020/09/07/mentor-club/" rel="bookmark" title="Открыт набор для студентов в Клубе менторов Физтех-Союза">
+<img alt="Открыт набор для студентов в Клубе менторов Физтех-Союза" src="http://miptstream.ru/wp-content/uploads/2020/09/slider-_2_-280x170.png"/>
+</a>
+<a href="http://miptstream.ru/2020/09/07/mentor-club/" rel="bookmark" title="Открыт набор для студентов в Клубе менторов Физтех-Союза">Открыт набор для студентов в Клубе менторов Физтех-Союза</a>
+<a class="loop-entry-img-link" href="http://miptstream.ru/2020/08/26/itogi-otkrytoj-onlajn-vstrechi-rektor/" rel="bookmark" title="Итоги открытой онлайн-встречи ректората со студенческим активом">
+<img alt="Итоги открытой онлайн-встречи ректората со студенческим активом" src="http://miptstream.ru/wp-content/uploads/2020/08/Selection_694-280x170.png"/>
+</a>
+<a href="http://miptstream.ru/2020/08/26/itogi-otkrytoj-onlajn-vstrechi-rektor/" rel="bookmark" title="Итоги открытой онлайн-встречи ректората со студенческим активом">Итоги открытой онлайн-встречи ректората со студенческим активом</a>
+<a class="page-numbers" href="http://miptstream.ru/page/2/">2</a>
+<a class="page-numbers" href="http://miptstream.ru/page/3/">3</a>
+<a class="page-numbers" href="http://miptstream.ru/page/4/">4</a>
+<a class="page-numbers" href="http://miptstream.ru/page/5/">5</a>
+<a class="page-numbers" href="http://miptstream.ru/page/212/">212</a>
+<a class="next page-numbers" href="http://miptstream.ru/page/2/"><i class="icon-angle-right"></i></a>
